@@ -1,0 +1,15 @@
+Oracle VM -> settings->shared folder-> create new folder "VM_shared_folder" in "D drive" and select (D:\VM_shared_folder)-> select permanent
+
+open oracle vm box -> create new folder in home "VM_shared"
+
+
+
+
+open terminal and type the given command
+sudo mount -t vboxsf VM_shared_folder /home/anand/VM_share/
+
+
+restart vm
+
+
+

@@ -1,0 +1,1821 @@
+URL for Nigeria is shows "404 - File or directory not found."
+
+http://admin.unfpaopendata.org/api/data?db=2&map=true&area=NGA001{~}NGA004{~}NGA006{~}NGA010{~}NGA016{~}NGA009{~}NGA012{~}NGA013{~}NGA024{~}NGA027{~}NGA030{~}NGA028{~}NGA029{~}NGA021{~}NGA023{~}NGA026{~}NGA033{~}NGA036{~}NGA014{~}NGA018{~}NGA022{~}NGA020{~}NGA025{~}NGA037{~}NGA002{~}NGA003{~}NGA007{~}NGA011{~}NGA034{~}NGA005{~}NGA017{~}NGA019{~}NGA031{~}NGA008{~}NGA015{~}NGA035{~}NGA032&getChildren=no&ius=WMN_20-24_YR_MRD_18,PER,F_20-24_YR{~}PRP_WMN_20-24_YR_MRD_15,PER,F_20-24_YR{~}PER_WMN_20-24_GV_BRTH_18,PER,TOT{~}PER_WMN_20-24_GV_BRTH_15,PER,TOT{~}PER_CRNT_MRD_UN_F_15-19_CRNT_ANY_CNTCPTV_MTHD,PER,F_15-19_YR{~}CNTCPTV_PRVLNC_RT_MDRN,PER,F_15-19_YR{~}PER_CRNT_MRD_UN_F_15-19_NOT_CRNT_ANY_CNTCPTV_MTHD,PER,F_15-19_YR{~}UNMT_ND_FMLY_PLNG,PER,F_15-19_YR_CRNT_MRD{~}DMND_STSFD_FMLY_PLNG_MTHD,PER,F_15-19_YR_CRNT_MRD{~}PRP_WMN_15-19_YR_SXL_ACTV,PER,F_15-19_YR_NVR_MRD_EVR_SX{~}PRP_WMN_15-19_YR_SXL_ACTV,PER,F_15-19_YR_NVR_MRD_SXL_ACTV{~}PRP_WMN_15-19_YR_SXL_ACTV,PER,F_15-19_YR_EVR_SX{~}PRP_WMN_15-19_YR_SXL_ACTV,PER,F_15-19_YR_SXL_ACTV{~}PER_CRNT_MRD_UN_F_20-24_CRNT_ANY_CNTCPTV_MTHD,PER,F_20-24_YR{~}CNTCPTV_PRVLNC_RT_MDRN,PER,F_20-24_YR{~}PER_CRNT_MRD_UN_F_20-24_NOT_CRNT_ANY_CNTCPTV_MTHD,PER,F_20-24_YR{~}UNMT_ND_FMLY_PLNG,PER,F_20-24_YR_CRNT_MRD{~}DMND_STSFD_FMLY_PLNG_MTHD,PER,F_20-24_YR_CRNT_MRD{~}PRP_WMN_15-24_YR_DIF_BTW_CRNT_PRTNR,PER,F_15-24_YR_AG_DIF_10_MR_YR{~}PRP_WMN_15-24_YR_DIF_BTW_CRNT_PRTNR,PER,F_15-24_YR_AG_DIF_5-9_YR{~}PRP_WMN_15-24_YR_DIF_BTW_CRNT_PRTNR,PER,F_15-24_YR_AG_DIF_YNGR_SM_AG_LT_5_YR{~}PRP_WMN_15-49_YR_INVLVD_DECSN_CNTCPTV_USE,PER,F_15-19_YR_CRNT_MRD{~}PRP_WMN_15-49_YR_INVLVD_DECSN_CNTCPTV_USE,PER,F_20-24_YR_CRNT_MRD{~}PRP_WMN_15-49_YR_OWN_HLTH_DECSN,PER,F_15-19_YR_CRNT_MRD{~}PRP_WMN_15-49_YR_OWN_HLTH_DECSN,PER,F_20-24_YR_CRNT_MRD{~}POP_15-24_YR_CMPRHNSV_CRCT_KNLDG_HIV,PER,F_15-19_YR{~}POP_15-24_YR_CMPRHNSV_CRCT_KNLDG_HIV,PER,F_20-24_YR{~}PRP_WMN_15-19_YR_SXL_ACTV,PER,F_15-19_YR_NVR_MRD_EVR_SX{~}PRP_WMN_15-19_YR_SXL_ACTV,PER,F_15-19_YR_NVR_MRD_SXL_ACTV{~}PRP_WMN_15-19_YR_EVR_SX,PER,F_15-19_YR_EVR_SX{~}PRP_WMN_15-19_YR_SXL_ACTV,PER,F_15-19_YR_SXL_ACTV{~}PER_F_15-24_WIFE_BEAT_JSTFD_LST_ONE_CNDTN,PER,F_15-24_YR_YES_AT_LST_ONE_RSN{~}PRP_WMN_15-24_YR_DIF_BTW_CRNT_PRTNR,PER,F_15-24_YR_AG_DIF_10_MR_YR{~}&data=true&tp=mrd
+
+
+&callback=jQuery17208425005179607923_1477317345753
+
+If we remove last 3 indicators from the URL and hit, then it shows the data for most of the indicators but some indicator values for map may get lost.
+
+
+http://admin.unfpaopendata.org/api/data?db=2&map=true&area=NGA001{~}NGA004{~}NGA006{~}NGA010{~}NGA016{~}NGA009{~}NGA012{~}NGA013{~}NGA024{~}NGA027{~}NGA030{~}NGA028{~}NGA029{~}NGA021{~}NGA023{~}NGA026{~}NGA033{~}NGA036{~}NGA014{~}NGA018{~}NGA022{~}NGA020{~}NGA025{~}NGA037{~}NGA002{~}NGA003{~}NGA007{~}NGA011{~}NGA034{~}NGA005{~}NGA017{~}NGA019{~}NGA031{~}NGA008{~}NGA015{~}NGA035{~}NGA032&getChildren=no&ius=WMN_20-24_YR_MRD_18,PER,F_20-24_YR{~}PRP_WMN_20-24_YR_MRD_15,PER,F_20-24_YR{~}PER_WMN_20-24_GV_BRTH_18,PER,TOT{~}PER_WMN_20-24_GV_BRTH_15,PER,TOT{~}PER_CRNT_MRD_UN_F_15-19_CRNT_ANY_CNTCPTV_MTHD,PER,F_15-19_YR{~}CNTCPTV_PRVLNC_RT_MDRN,PER,F_15-19_YR{~}PER_CRNT_MRD_UN_F_15-19_NOT_CRNT_ANY_CNTCPTV_MTHD,PER,F_15-19_YR{~}UNMT_ND_FMLY_PLNG,PER,F_15-19_YR_CRNT_MRD{~}DMND_STSFD_FMLY_PLNG_MTHD,PER,F_15-19_YR_CRNT_MRD{~}PRP_WMN_15-19_YR_SXL_ACTV,PER,F_15-19_YR_NVR_MRD_EVR_SX{~}PRP_WMN_15-19_YR_SXL_ACTV,PER,F_15-19_YR_NVR_MRD_SXL_ACTV{~}PRP_WMN_15-19_YR_SXL_ACTV,PER,F_15-19_YR_EVR_SX{~}PRP_WMN_15-19_YR_SXL_ACTV,PER,F_15-19_YR_SXL_ACTV{~}PER_CRNT_MRD_UN_F_20-24_CRNT_ANY_CNTCPTV_MTHD,PER,F_20-24_YR{~}CNTCPTV_PRVLNC_RT_MDRN,PER,F_20-24_YR{~}PER_CRNT_MRD_UN_F_20-24_NOT_CRNT_ANY_CNTCPTV_MTHD,PER,F_20-24_YR{~}UNMT_ND_FMLY_PLNG,PER,F_20-24_YR_CRNT_MRD{~}DMND_STSFD_FMLY_PLNG_MTHD,PER,F_20-24_YR_CRNT_MRD{~}PRP_WMN_15-24_YR_DIF_BTW_CRNT_PRTNR,PER,F_15-24_YR_AG_DIF_10_MR_YR{~}PRP_WMN_15-24_YR_DIF_BTW_CRNT_PRTNR,PER,F_15-24_YR_AG_DIF_5-9_YR{~}PRP_WMN_15-24_YR_DIF_BTW_CRNT_PRTNR,PER,F_15-24_YR_AG_DIF_YNGR_SM_AG_LT_5_YR{~}PRP_WMN_15-49_YR_INVLVD_DECSN_CNTCPTV_USE,PER,F_15-19_YR_CRNT_MRD{~}PRP_WMN_15-49_YR_INVLVD_DECSN_CNTCPTV_USE,PER,F_20-24_YR_CRNT_MRD{~}PRP_WMN_15-49_YR_OWN_HLTH_DECSN,PER,F_15-19_YR_CRNT_MRD{~}PRP_WMN_15-49_YR_OWN_HLTH_DECSN,PER,F_20-24_YR_CRNT_MRD{~}POP_15-24_YR_CMPRHNSV_CRCT_KNLDG_HIV,PER,F_15-19_YR{~}POP_15-24_YR_CMPRHNSV_CRCT_KNLDG_HIV,PER,F_20-24_YR{~}PRP_WMN_15-19_YR_SXL_ACTV,PER,F_15-19_YR_NVR_MRD_EVR_SX{~}PRP_WMN_15-19_YR_SXL_ACTV,PER,F_15-19_YR_NVR_MRD_SXL_ACTV{~}PRP_WMN_15-19_YR_EVR_SX,PER,F_15-19_YR_EVR_SX
+
+
+
+
+For Congo country map, region name is showing up as null in pop up.
+http://dashboard.unfpaopendata.org/ay/index.php/pages/index/COG
+http://data-unfpa-global.pantheonsite.io/data/adolescent-youth/CG
+
+
+
+
+/**
+ * @file
+ * UNFPA Global Dashboard Javascript file.
+ */
+
+// This object gives key as div and value as options and it is used for making graphs and tables.
+var chartMapConfigXMLNodeObj = {
+  "map_area_indicator_data":
+    {
+      "perc_girl_age_20_24_mrd_bfr_18": "Percentage of women aged 20-24 who got married before age 18",
+      "perc_girl_age_20_24_mrd_bfr_15": "Percentage of women aged 20-24 who got married before age 15",
+      "perc_girl_age_20_24_gave_birth_bfr_18": "Percentage of women aged 20-24 who gave birth before age 18",
+      "perc_girl_age_20_24_gave_birth_bfr_15": "Percentage of women aged 20-24 who gave birth before age 15",
+      "perc_mrd_girl_age_15_19_using_contrcptn_mthd": "Percentage of currently married/in union females aged 15-19 who are currently using any contraceptive method",
+      "perc_mrd_girl_age_15_19_using_mdrn_contrcptn_mthd": "Percentage of currently married/in union females aged 15-19 who are currently using any modern contraceptive method",
+      "perc_mrd_girl_age_15_19_not_using_contrcptn_mthd": "Percentage of currently married/in union females aged 15-19 who are not currently using any contraceptive method",
+      "perc_mrd_girl_age_15_19_hv_unmet_need_fml_pln": "Percentage of currently married/in union females aged 15-19 who have an unmet need for family planning",
+      "perc_mrd_girl_age_15_19_contrcptn_dmnd_stsfd": "Percentage of currently married/in union females aged 15-19 who have their contraception demand satisfied",
+      "perc_mrd_girl_age_20_24_using_contrcptn_mthd": "Percentage of currently married/in union females aged 20-24 who are currently using any contraceptive method",
+      "perc_mrd_girl_age_20_24_using_mdrn_contrcptn_mthd": "Percentage of currently married/in union females aged 20-24 who are currently using any modern contraceptive method",
+      "perc_mrd_girl_age_20_24_not_using_contrcptn_mthd": "Percentage of currently married/in union females aged 20-24 who are not currently using any contraceptive method",
+      "perc_mrd_girl_age_20_24_hv_unmet_need_fml_pln": "Percentage of currently married/in union females aged 20-24 who have an unmet need for family planning",
+      "perc_mrd_girl_age_20_24_contrcptn_dmnd_stsfd": "Percentage of currently married/in union females aged 20-24 who have their contraception demand satisfied",
+      "perc_girl_age_15_19_take_contrcptn_desc_byself_or_with_hsbnd": "Proportion of women 15-19 involved in decision making for contraceptive use",
+      "perc_girl_age_20_24_take_contrcptn_desc_byself_or_with_hsbnd": "Proportion of women 20-24 involved in decision making for contraceptive use",
+      "perc_girl_age_15_19_take_own_hlth_desc_byself_or_with_hsbnd": "Proportion of women 15-19 involved in decision making for own health care",
+      "perc_girl_age_20_24_take_own_hlth_desc_byself_or_with_hsbnd": "Proportion of women 20-24 involved in decision making for own health care",
+      "perc_girl_age_15_19_have_knwldg_hiv_aids": "Percentage of females aged 15-19 who have comprehensive Knowledge of HIV/AIDS",
+      "perc_girl_age_20_24_have_knwldg_hiv_aids": "Percentage of females aged 20-24 who have comprehensive Knowledge of HIV/AIDS",
+      "perc_female_ever_had_all_girl_15_19": "Percentage of girls aged 15-19 who  ever had sex",
+      "perc_female_sexuly_active_all_girl_15_19": "Percentage of girls aged 15-19 who are sexually active",
+      "perc_wife_think_beating_jusfd_girl_15_24": "Percentage of females aged 15-24 who think that wife beating is justified under at least one condition",
+      "perc_15_24_age_diff_btwn_female_and_partnr_girl_10_or_more": "Percentage of females aged 15-24 who have a  husband/cohabiting partner 10 or more years older"
+    },
+  "table_ppl_dstrbtn_resd_regn_tabledata": "by_ppl_dstrbtn_resd_regn_tabledata",
+  "graph_ppl_dstrbtn_resd_regn":
+    {
+      "girl_10_14": "by_ppl_dstrbtn_resd_regn_girl_10_14",
+      "girl_15_19": "by_ppl_dstrbtn_resd_regn_girl_15_19",
+      "girl_20_24": "by_ppl_dstrbtn_resd_regn_girl_20_24",
+      "boy_10_14": "by_ppl_dstrbtn_resd_regn_boy_10_14",
+      "boy_15_19": "by_ppl_dstrbtn_resd_regn_boy_15_19",
+      "boy_20_24": "by_ppl_dstrbtn_resd_regn_boy_20_24"
+    },
+  "graph_part_resd_household_adolescnt":
+    {
+      "girl_10_14": "by_part_resd_household_adolescnt_girl_10_14",
+      "boy_10_14": "by_part_resd_household_adolescnt_boy_10_14"
+    },
+  "graph_mrtl_status_adolescnt":
+    {
+      "girl_15_19": "by_mrtl_status_adolescnt_girl_15_19",
+      "girl_20_24": "by_mrtl_status_adolescnt_girl_20_24"
+    },
+  "graph_schl_atnd_adolescnt_female":
+    {
+      "girl_10_14": "by_schl_atnd_adolescnt_female_girl_10_14",
+      "girl_15_19": "by_schl_atnd_adolescnt_female_girl_15_19"
+    },
+  "graph_schl_atnd_adolescnt_male":
+    {
+      "boy_10_14": "by_schl_atnd_adolescnt_male_boy_10_14",
+      "boy_15_19": "by_schl_atnd_adolescnt_male_boy_15_19"
+    },
+  "graph_adolescnt_mrg": "by_adolescnt_mrg",
+  "graph_adolescnt_prg": "by_adolescnt_prg",
+  "graph_perc_mrd_female_used_or_not_contrcptn":
+    {
+      "girl_15_19": "by_perc_mrd_female_used_or_not_contrcptn_girl_15_19",
+      "girl_20_24": "by_perc_mrd_female_used_or_not_contrcptn_girl_20_24"
+    },
+  "graph_perc_female_contrcptn_dmnd_unmet": "by_perc_female_contrcptn_dmnd_unmet_girl_15_24",
+  "graph_perc_female_contrcptn_dmnd_met": "by_perc_female_contrcptn_dmnd_met_girl_15_24",
+  "graph_perc_female_sexuly_active":
+    {
+      "all_girl_15_19": "by_perc_female_sexuly_active_all_girl_15_19",
+      "never-married_girl_15_19": "by_perc_female_sexuly_active_never-married_girl_15_19",
+    },
+  "graph_perc_age_diff_btwn_female_and_partnr": "by_perc_age_diff_btwn_female_and_partnr_girl_15_24",
+  "graph_perc_wife_think_beating_jusfd": "by_perc_wife_think_beating_jusfd_girl_15_24",
+  "graph_perc_female_take_contrcptn_desc_byself_or_with_hsbnd": "by_perc_female_take_contrcptn_desc_byself_or_with_hsbnd_girl_15_24",
+  "graph_perc_female_have_knwldg_hiv_aids": "by_perc_female_have_knwldg_hiv_aids_girl_15_24"
+};
+// Array of indicators lies in the category where loe is good.
+var IndLowerIsGood =
+  {
+    "perc_mrd_girl_age_15_19_using_contrcptn_mthd": "perc_mrd_girl_age_15_19_using_contrcptn_mthd",
+    "perc_mrd_girl_age_15_19_using_mdrn_contrcptn_mthd": "perc_mrd_girl_age_15_19_using_mdrn_contrcptn_mthd",
+    "perc_mrd_girl_age_20_24_using_contrcptn_mthd": "perc_mrd_girl_age_20_24_using_contrcptn_mthd",
+    "perc_mrd_girl_age_20_24_using_mdrn_contrcptn_mthd": "perc_mrd_girl_age_20_24_using_mdrn_contrcptn_mthd",
+    "perc_mrd_girl_age_15_19_contrcptn_dmnd_stsfd": "perc_mrd_girl_age_15_19_contrcptn_dmnd_stsfd",
+    "perc_mrd_girl_age_20_24_contrcptn_dmnd_stsfd": "perc_mrd_girl_age_20_24_contrcptn_dmnd_stsfd",
+    "perc_girl_age_15_19_take_contrcptn_desc_byself_or_with_hsbnd": "perc_girl_age_15_19_take_contrcptn_desc_byself_or_with_hsbnd",
+    "perc_girl_age_20_24_take_contrcptn_desc_byself_or_with_hsbnd": "perc_girl_age_20_24_take_contrcptn_desc_byself_or_with_hsbnd",
+    "perc_girl_age_15_19_take_own_hlth_desc_byself_or_with_hsbnd": "perc_girl_age_15_19_take_own_hlth_desc_byself_or_with_hsbnd",
+    "perc_girl_age_20_24_take_own_hlth_desc_byself_or_with_hsbnd": "perc_girl_age_20_24_take_own_hlth_desc_byself_or_with_hsbnd",
+    "perc_girl_age_15_19_have_knwldg_hiv_aids": "perc_girl_age_15_19_have_knwldg_hiv_aids",
+    "perc_girl_age_20_24_have_knwldg_hiv_aids": "perc_girl_age_20_24_have_knwldg_hiv_aids"
+  }
+// Get pie chart div.
+var pieChartDiv = 'graph_ppl_dstrbtn_resd_regn';
+var mapDiv = 'map_area_indicator_data';
+// Get graph type.
+var graphType = 'graph';
+var chartTitleFontSize = 12;
+var xAxisFontSize = '9px';
+var yAxisFontSize = '9px';
+var seriesItemFontSize = '9px';
+var legendItemFontSize = '10px';
+var legendItemSymbolPadding = 2;
+var legendItemSymbolWidth = 10;
+var chartLabelFontSize = '11px';
+var graph_perc_female_sexuly_active_married_girl_15_19 = false;
+var graph_perc_female_sexuly_active_all_girl_15_19 = false;
+var graph_perc_mrd_female_used_or_not_contrcptn_girl_15_19 = false;
+var graph_perc_mrd_female_used_or_not_contrcptn_girl_20_24 = false;
+var mapTitle = "";
+var selAreaId = "";
+var countryName = "";
+var mapLoadedFlg = true;
+var areaJsonDataObj = "";
+(function ($) {
+  Drupal.behaviors.country_data = {
+    attach: function (context, settings) {
+      // Three digit countryCode.
+      selAreaId = Drupal.settings.countryCode;
+      filexistAreaIdStatus = Drupal.settings.fileMapDataAreaIdJsonStatus;
+      mapDisplayData = Drupal.settings.mapDisplayData;
+      countryName = Drupal.settings.country_name;
+      areaJsonDataObj = JSON.parse(Drupal.settings.area_json_data_obj);
+      data = JSON.parse(Drupal.settings.data);
+      mapGeojson = data.map;
+      mapDatafrmApi = data.data;
+
+    }
+  };
+  $(document).ready(function () {
+
+    $('.first').addClass("active");
+    /*
+     * Pie chart section.
+     */
+    // When pie chart filter label is clicked, radio button should also click.
+    $('#sel_ppl_dstrbtn_resd_regn_radio label').click(function () {
+      $(this).siblings().children('.iCheck-helper').attr("checked", true).trigger("click");
+    });
+    // When pie chart filter radio btn is clicked, pie chart is updated according to the filter value .
+    $('#sel_ppl_dstrbtn_resd_regn_radio .iCheck-helper').click(function () {
+      var piechartFilter = $(this).siblings().val();
+      makePieChart('graph_ppl_dstrbtn_resd_regn', piechartFilter);
+    });
+
+    /*
+     * Indcators and Filters.
+     */
+    // When Indicators and Filters label is clicked, radio button should also click.
+    $('.dashboard-country-outer-box label').click(function () {
+      $(this).siblings().children('.iCheck-helper').attr("checked", true).trigger("click");
+    });
+    // Indicators and Filters radio button.
+    $('.dashboard-country-outer-box .iCheck-helper').click(function () {
+      var populationDistributionGraph = (($(this).parents('.dashboard-country-outer-box').prop('id')) != 'population-distribution-section') ? false : true;
+
+      // For all other cards except 'Population Distribution, by Residence and Region'.
+      if (!populationDistributionGraph) {
+        var filters = (($(this).parent().parent().parent().prop('className')) === 'filter-option') ? true : false;
+        var graphFilters = ($(this).parents('.square-input-element').hasClass('graphfilter')) ? true : false;
+
+        // If only indicator is clicked and not the filter.
+        if (!filters) {
+          $(this).parents('ul').find('li').removeClass('active');
+          $(this).parents('li').addClass('active');
+          allCardIndicatorClick($(this));
+          (($(this).parents('.dashboard-country-outer-box').prop('id')) === 'residence-schl-attendane-section') ? residenceSchlAttendaneIndicatorClick($(this)) : "";
+        }
+
+        // Map and Graph Filter.
+        (filters) ? allMapGraphfilterClick($(this)) : "";
+        if (graphFilters) {
+          // Graph filter for School Attendance among Adolescents.
+          ($(this).parents('.square-input-element').prop('id') == 'graphfilter_schl_atnd_adolescnt_female_girl_10_19') ? schlAttndnceGraphFilterClick($(this)) : allGraphFilterClick($(this));
+        }
+        else {
+          (($(this).parents('.dashboard-country-outer-box').prop('id')) != 'residence-schl-attendane-section') ? allMapfilterIndicatorClick($(this)) : "";
+        }
+      }
+    });
+
+    /*
+     * This function is used when the indicator is clicked and not the filter.
+     */
+    function allCardIndicatorClick(thisObj) {
+      // Set Card title according to active indicator.
+      var activeIndicatorTitleText = thisObj.parent().siblings().html();
+      thisObj.parents('.dashboard-country-outer-box').find('h2').html(activeIndicatorTitleText);
+      thisObj.parents('.dashboard-country-outer-box').find('button.graph').html(activeIndicatorTitleText);
+
+      // Assign filter block names to buttons to show the respective filter when the map and graph button is clicked.
+      var activeIndicatorMapFilterBlockClassname = 'filter_' + thisObj.siblings().prop('className');
+      var activeIndicatorGraphFilterBlockClassname = 'graphfilter_' + thisObj.siblings().prop('className');
+      thisObj.parents('.dashboard-country-outer-box').find('.map').prop('id', activeIndicatorMapFilterBlockClassname);
+      thisObj.parents('.dashboard-country-outer-box').find('button.graph').prop('name', activeIndicatorGraphFilterBlockClassname);
+
+      // Assign graph-div-class-name to graph button to show the respective graph when the graph button is clicked.
+      var activeIndicatorGraphDivClassname = 'graph_' + thisObj.siblings().prop('className');
+      thisObj.parents('.dashboard-country-outer-box').find('button.graph').prop('id', activeIndicatorGraphDivClassname);
+
+      // Hide all graph filters.
+      thisObj.parents('.dashboard-country-outer-box').find('.square-input-element').css('display', 'none');
+      // Show default filter for map on each indicator click.
+      var activeIndicatorDefaultMapFilterBlockClassname = '.filter_' + (thisObj.siblings().prop("className"));
+      $(activeIndicatorDefaultMapFilterBlockClassname).css('display', 'block');
+      // Select first option from map filter on indicators click.
+      $(activeIndicatorDefaultMapFilterBlockClassname).find('li:first .iCheck-helper').click();
+      // Assign table name to table icon to show the respective table when the map/graph button and table icon is clicked.
+      var activeIndicatorTableDivClassname = 'table_' + thisObj.siblings().prop('className');
+      thisObj.parents('.dashboard-country-outer-box').find('.table').prop('id', activeIndicatorTableDivClassname);
+      // Map button clicked everytime an indicator is selected.
+      var buttonname = 'button.' + thisObj.siblings('input').prop('id');
+      thisObj.parents('.dashboard-country-outer-box').find(buttonname).click();
+      // Adolescent and Child Marriage card - 4th indicator - hide map button.
+      var maritalStatusAdolescent = thisObj.siblings('input').val();
+      if (maritalStatusAdolescent == "no_map_data") {
+        thisObj.parents('.dashboard-country-outer-box').find('button.map').hide();
+        thisObj.parents('.dashboard-country-outer-box').find('button.graph').addClass('active');
+        thisObj.parents('.dashboard-country-outer-box').find('button.graph').click();
+      }
+      else {
+        thisObj.parents('.dashboard-country-outer-box').find('button.map').show();
+      }
+    }
+
+    /*
+     * This function is used when the indicator is clicked for 'Residence and School Attendance' card.
+     */
+    function residenceSchlAttendaneIndicatorClick(thisObj) {
+      var activeIndicatorFilterFirstOption = thisObj.siblings('input').prop('className');
+      $('#residence-schl-attendane-section').find('.first-' + activeIndicatorFilterFirstOption).siblings().attr("checked", true).trigger("click");
+      $('#residence-schl-attendane-section').find('button.graph').click();
+      // First filter clicked by default.
+      if (thisObj.siblings().prop('className') == "schl_atnd_adolescnt_female_girl_10_19") {
+        $('.schl_attendance_girls').siblings().attr("checked", true).trigger("click");
+      }
+    }
+
+    /*
+     * This function is used when the filter used for both map and graph is clicked.
+     */
+    function allMapGraphfilterClick(thisObj) {
+      thisObj.parents('#filter-options-list').find('.iCheck-helper').removeClass('active');
+      thisObj.addClass('active');
+      // Used for exiting fullscreen to come on the original state.
+      thisObj.parents('#filter-options-list').find('input').removeClass('active');
+      thisObj.siblings('input').addClass('active');
+      // Set Card title according to active filter.
+      var active_filter_title_text = thisObj.parent().siblings('span').html();
+      thisObj.parents('.dashboard-country-outer-box').find('h2').html(active_filter_title_text);
+      thisObj.parents('.dashboard-country-outer-box').find('.map_part').css("display", "block");
+      thisObj.parents('.dashboard-country-outer-box').find('.dfapi-visTbl-container').css("display", "none");
+    }
+
+    /*
+     * This function is used when the filter in indicator 'School Attendance among Adolescents aged 10-19' of 'Residence and School Attendance' card is clicked.
+     */
+    function schlAttndnceGraphFilterClick(thisObj) {
+      var graphSchlAtndFilterDivClassname = '.' + thisObj.siblings().prop('id');
+      $('.schl_attendance_girls_boys').css('display', 'none');
+      $(graphSchlAtndFilterDivClassname).css('display', 'block');
+      // Assign school attendance graph-div-class-name to graph button to show the respective graph when the graph button is clicked.
+      var activeIndicatorGraphDivClassname = thisObj.siblings().prop('id');
+      thisObj.parents('.dashboard-country-outer-box').find('button.graph').prop('id', activeIndicatorGraphDivClassname);
+      var schoolAttendanceAgeFilterDivClassname = thisObj.siblings().prop('className');
+      // Hide age school attendance filter.
+      $('.schl').css('display', 'none');
+      // Show age filter block for active school attendance gender active filter.
+      $('.' + schoolAttendanceAgeFilterDivClassname + '_display').css('display', 'block');
+      // Check the first element of school attendance age filter.
+      $('.' + schoolAttendanceAgeFilterDivClassname + '_first').siblings('.iCheck-helper').attr("checked", true).trigger("click");
+      // Card - Residence and School Attendance assign table name to the table icon.
+      var residenceSchlAttendaneTableclass = thisObj.siblings().prop('id');
+      thisObj.parents('.dashboard-country-outer-box').find('.table').prop('id', residenceSchlAttendaneTableclass);
+    }
+
+    /*
+     * This function is used when the filter used for graph is clicked.
+     */
+    function allGraphFilterClick(thisObj) {
+      var graphFilterValue = thisObj.siblings().val();
+      // Call function to make Bar Chart on filter click.
+      var graphDivId = '.' + thisObj.parents('.dashboard-country-outer-box').find('button.graph').prop('id');
+      graphDivId = $(graphDivId).prop('id');
+      makeBarChart(graphDivId, graphFilterValue);
+
+      thisObj.parents('.dashboard-country-outer-box').find('.map_part').css("display", "none");
+      thisObj.parents('.dashboard-country-outer-box').find('.dfapi-visTbl-container').css('display', 'none');
+      var activeGraphFilterGraphDivClassname = '.' + thisObj.parents('.dashboard-country-outer-box').find('.graph').prop('id');
+      $(activeGraphFilterGraphDivClassname).css('display', 'block');
+    }
+
+    /*
+     * This function is used when the filter used for map is clicked.
+     */
+    function allMapfilterIndicatorClick(thisObj) {
+      // If map has been loaded properly.
+      if (mapLoadedFlg) {
+        // If selected parent container already contain visualization table content.
+        if (thisObj.parents('dashboard-country-outer-box').find('#map_render').find($('div.dfapi-visTbl-container')).length) {
+          thisObj.parents('dashboard-country-outer-box').find('#map_render').find($('div.dfapi-visTbl-container')).remove();
+          thisObj.parents('dashboard-country-outer-box').find('#map_area_indicator_data').css("display", "block");
+          thisObj.parents('dashboard-country-outer-box').find('#map_area_indicator_data_adolescent_prg').css("display", "block");
+        }
+
+        var selOpt = thisObj.siblings().val();
+        var mapTitle = selOpt;
+        // Call function to change map data.
+        ChangeLegend(selOpt);
+        var map_div_id = thisObj.parents('.dashboard-country-outer-box').find('.map_part').prop('id');
+        if (filexistAreaIdStatus == true) {
+          var mapData = getMapData(selOpt);
+        }
+        else {
+          var mapData = getApidata(selOpt);
+        }
+
+        loadHCMapData(mapGeojson, mapData, map_div_id);
+      }
+    }
+
+    /*
+     * Graph and Map button.
+     */
+    // Graph button.
+    $('.graph').click(function () {
+      // Set the card title according to active graph.
+      var titleText = $(this).html();
+      $(this).parents('.dashboard-country-outer-box').find('h2').html(titleText);
+      // $(this).parents('.dashboard-country-outer-box').find('.action-link-list .download').css('display', 'block');
+      // To show the graph table when table icon is clicked.
+      $(this).parents('.dashboard-country-outer-box').find('.table').addClass("graph_table");
+      $(this).siblings().removeClass('active');
+      $(this).addClass('active');
+      // Hide all filters.
+      $(this).parent().siblings().find('.square-input-element').css('display', 'none');
+      $(this).addClass("active");
+      if (($(this).prop('name')) != "") {
+        var activeIndicatorGraphFilterBlockClassname = '.' + $(this).prop('name');
+        if (activeIndicatorGraphFilterBlockClassname == ".graphfilter_schl_atnd_adolescnt_female_girl_10_19") {
+          $('#graph_schl_atnd_adolescnt_female_girl_10_19').siblings().attr("checked", true).trigger("click");
+        }
+        // Show the graph filter.
+        $(activeIndicatorGraphFilterBlockClassname).css('display', 'block');
+        // Click the last clicked filter option and show the title.
+        $(activeIndicatorGraphFilterBlockClassname).find('.active').siblings('.iCheck-helper').trigger("click");
+      }
+      // Assign graph button as id to indicator if the graph button is selected last.
+      if ($(this).prop('id') != 'graph_ay_adolescent_age_by_15') {
+        var graphbuttonname = $(this).prop('name');
+        var indicator = graphbuttonname.replace('graphfilter_', '');
+        $('.' + indicator).prop('id', 'graph');
+      }
+
+      // Hide all Maps and Graphs.
+      $(this).parents('.country-chart-section-left').siblings('.country-chart-section-right').find('.bar_chart').css('display', 'none');
+      $(this).parents('.country-chart-section-left').siblings('.country-chart-section-right').find('.map_part').css('display', 'none');
+      $(this).parents('.country-chart-section-left').siblings('.country-chart-section-right').find('.dfapi-visTbl-container').css('display', 'none');
+      // Show the appropriate graph of active indicator on graph button click.
+      var activeIndicatorGraphDivClassname = '.' + $(this).prop('id');
+      $(activeIndicatorGraphDivClassname).css('display', 'block');
+    });
+    // Map button.
+    $('.map').click(function () {
+      $(this).parents('.dashboard-country-outer-box').find('.dfapi-visTbl-container').css("display", "none");
+      $(this).parents('.dashboard-country-outer-box').find('.bar_chart').css('display', 'none');
+      // $(this).parents('.dashboard-country-outer-box').find('.action-link-list .download').css('display', 'block');
+      // To show the map table when table icon is clicked.
+      $(this).parents('.dashboard-country-outer-box').find('.table').removeClass("graph_table");
+      $(this).parents('.dashboard-country-outer-box').find('.table').addClass("map_table");
+      // Hide all filters.
+      $(this).parent().siblings().find('.square-input-element').css('display', 'none');
+      $(this).siblings().removeClass('active');
+      $(this).addClass('active');
+      // Show the graph filter.
+      if (($(this).prop('id')) != "") {
+        var activeIndicatorMapFilterBlockClassname = '.' + $(this).prop('id');
+        $(activeIndicatorMapFilterBlockClassname).css('display', 'block');
+        // Click the last clicked filter option and show the title.
+        $(activeIndicatorMapFilterBlockClassname).find('.active').siblings('.iCheck-helper').trigger("click");
+      }
+      // Assign map button as id to indicator if the map button is selected last.
+      var mapbuttonname = $(this).prop('id');
+      var indicator = mapbuttonname.replace('filter_', '');
+      $('.' + indicator).prop('id', 'map');
+      $(this).parents('.dashboard-country-outer-box').find('.map_part').css("display", "block");
+    });
+
+    /*
+     * Table, Fullview, Print and Download icons.
+     */
+    // Table icon.
+    $('.map_table').click(function () {
+      $(this).siblings().removeClass('active');
+      $(this).addClass('active');
+      if ($(this).hasClass("graph_table")) {
+        var activeIndicatorTableDivClassname = '.' + $(this).prop('id');
+        var visDivID = containerParentDivID = null;
+        window[visDivID] = null;
+        visDivID = $(activeIndicatorTableDivClassname).attr('id');
+        var containerParentDivID = $(activeIndicatorTableDivClassname).parent("div").attr('id');
+        var objType = 'chart';
+        var obj = window[visDivID];
+        objTblSettings = {title: {enabled: false}};
+        calledSec = 'hosting';
+        // Call function to get object data in tabular format.
+        var tblContent = dfa_tableview.getDataTableContent(objType, obj, containerParentDivID, objTblSettings, calledSec);
+        $('#' + containerParentDivID).append(tblContent);
+        $('#' + containerParentDivID).find($('div.dfapi-visTbl-container')).hide();
+        if ($('#' + containerParentDivID).find($('div.dfapi-visTbl-container')).css('display') == 'none') {
+          $('#' + visDivID).css('display', 'block');
+          $('#' + containerParentDivID + ' div.dfapi-visTbl-container').css('display', 'block');
+        }
+        else {
+          $('#' + containerParentDivID + ' div.dfapi-visTbl-container').css('display', 'none');
+          $('#' + visDivID).css('display', 'none');
+        }
+        $('div.dfapi-visTbl-container').css('height', 'auto');
+        // Call function to enable sorting of table.
+        dfa_tableview.enableTableSorting(containerParentDivID);
+      }
+      else {
+        var divid = '#' + $(this).parents('.dashboard-country-outer-box').find('.map_part').prop('id');
+        var containerid = '#' + $(this).parents('.dashboard-country-outer-box').find('.map_part').parent().prop('id');
+        // If selected parent container already contain visualization table content.
+        if ($(containerid).find($('div.dfapi-visTbl-container')).length) {
+          $(containerid).find($('div.dfapi-visTbl-container')).remove();
+          $(divid).css("display", "block");
+        }
+
+        var visDivID = containerParentDivID = null;
+        window[visDivID] = null;
+        visDivID = $(this).parents('.dashboard-country-outer-box').find('.map_part').prop('id');
+        var mapDivId = '#' + $(this).parents('.dashboard-country-outer-box').find('.map_part').prop('id');
+        containerParentDivID = $(this).parents('.dashboard-country-outer-box').find('.map_part').parent().prop('id');
+        // Visualization object type.
+        if (visDivID == $(this).parents('.dashboard-country-outer-box').find('.map_part').prop('id')) {
+          objType = 'map';
+        }
+
+        // Get chart object.
+        var obj = window[visDivID];
+        if (!$(containerid).find($('div.dfapi-visTbl-container')).length) {
+          objTblSettings = {title: {enabled: false}};
+          var calledSec = 'hosting';
+          // Call function to get object data in tabular format.
+          var tblContent = dfa_tableview.getDataTableContent(objType, obj, containerParentDivID, objTblSettings, calledSec);
+          $(containerid).append(tblContent);
+          $(containerid).find($('div.dfapi-visTbl-container')).hide();
+        }
+        if ($(containerid).find($('div.dfapi-visTbl-container')).css('display') == 'none') {
+          $(mapDivId).css('display', 'block');
+          $(containerid + ' div.dfapi-visTbl-container').css('display', 'block');
+          $('.dfapi_hcnav_medium_con').hide();
+        }
+        else {
+          $(containerid + ' div.dfapi-visTbl-container').css('display', 'none');
+          $(mapDivId).css('display', 'none');
+          $('.dfapi_hcnav_medium_con').show();
+        }
+
+        // Call function to enable sorting of table.
+        dfa_tableview.enableTableSorting(containerParentDivID);
+      }
+
+      $(this).parents('.dashboard-country-outer-box').find('.bar_chart').css("display", "none");
+      $(this).parents('.dashboard-country-outer-box').find('.map_part').css("display", "none");
+      $(this).parent().siblings().find('.square-input-element').css('display', 'none');
+    });
+    // Print icon.
+    $('.dfapi-viz-toolbar .dfapi-viz-toolbar-medium').on('click', function () {
+      if ($(this).hasClass('print')) {
+        var printLogo = "<div class='logo-unfpa'></div>";
+        var copyrightText = "<div class='copyright_content'>(c) United Nations Population Fund</div>";
+        var sourceText = "<div class='source_content'>Source: Demographic and Health Surveys 2013</div>";
+        var printTitle = "<h2>Adolescents and Youth Dashboard - " + countryName + "</h2>";
+        // Print Graph.
+        if ($(this).parents('.dashboard-country-outer-box').find('button.graph').hasClass('active')) {
+          var graphId = '.' + $(this).parents('.dashboard-country-outer-box').find('button.graph').prop('id');
+          var graphDivId = '#' + $(graphId).prop('id');
+          var objType = 'chart';
+          $(this).parents('.dashboard-country-outer-box').find(graphDivId).parent().find('.print-subtitle').before(printLogo);
+          $(this).parents('.dashboard-country-outer-box').find(graphDivId).after(copyrightText);
+          $(this).parents('.dashboard-country-outer-box').find(graphDivId).after(sourceText);
+          $(this).parents('.dashboard-country-outer-box').find(graphDivId).parent().find('.print-subtitle').before(printTitle);
+          $(this).parents('.dashboard-country-outer-box').find(graphDivId).parent().find('.print-subtitle').css('display', 'block');
+          var containerParentDivID = $(graphDivId).parent().prop('id');
+        }
+        else if ($(this).parents('.dashboard-country-outer-box').find('button.table').hasClass('active')) { // Print Table.
+          $('table, table th, table td').css('border', '1px solid #000000');
+          $(this).parents('.dashboard-country-outer-box').find('.dfapi-visTbl-container').parent().find('.print-subtitle').before(printLogo);
+          $(this).parents('.dashboard-country-outer-box').find('.dfapi-visTbl-container').after(copyrightText);
+          $(this).parents('.dashboard-country-outer-box').find('.dfapi-visTbl-container').after(sourceText);
+          $(this).parents('.dashboard-country-outer-box').find('.dfapi-visTbl-container').parent().find('.print-subtitle').before(printTitle);
+          $(this).parents('.dashboard-country-outer-box').find('.dfapi-visTbl-container').parent().find('.print-subtitle').css('display', 'block');
+          var containerParentDivID = $(this).parents('.dashboard-country-outer-box').find('.dfapi-visTbl-container').parent().prop('id');
+          var objType = 'chart';
+        }
+        else { // Print Map.
+          $(this).parents('.dashboard-country-outer-box').find('.map_part').parent().find('.print-subtitle').before(printLogo);
+          $(this).parents('.dashboard-country-outer-box').find('.map_part').after(copyrightText);
+          $(this).parents('.dashboard-country-outer-box').find('.map_part').after(sourceText);
+          $(this).parents('.dashboard-country-outer-box').find('.map_part').parent().find('.print-subtitle').before(printTitle);
+          $(this).parents('.dashboard-country-outer-box').find('.map_part').parent().find('.print-subtitle').css('display', 'block');
+          var containerParentDivID = $(this).parents('.dashboard-country-outer-box').find('.map_part').parent().prop('id');
+          var objType = 'map';
+        }
+        $('tspan').css('display', 'none');
+        dfa_printvisualization.print(objType, containerParentDivID);
+        $('.print-title').css('display', 'none');
+        $('.logo-unfpa').css('display', 'none');
+        $('.logo-unfpa + h2').css('display', 'none');
+        $('.print-subtitle, .source_content, .copyright_content').css('display', 'none');
+        $('table, table th, table td').css('border', '0 none');
+
+        window.location.reload(true);
+      }
+    });
+    // Download icon.
+    $('.dwnld-opts a').on('click', function () {
+      // Download Graph.
+      if ($(this).parents('.dashboard-country-outer-box').find('button.graph').hasClass('active')) {
+        var graphId = '.' + $(this).parents('.dashboard-country-outer-box').find('button.graph').prop('id');
+        var graphDivId = '#' + $(graphId).prop('id');
+        var objType = 'chart';
+        var chartID = $(graphId).prop('id');
+        $('#' + chartID).css('width', '10px');
+        var type = $(this).attr('type');
+        var chartDiv = $(chartID);
+        if (type == 'csv') {
+          var chart = $('#' + chartID).highcharts();
+          $(this).attr('href', 'data:text/csv;charset=utf-8,' + escape(chart.getCSV()));
+          $(this).attr('download', countryName + "-graph.csv");
+        }
+        else {
+          var graphObj = window[chartID];
+          var catRev = ($.trim(graphObj.series[0].chart.xAxis[0].reversed)) ? graphObj.series[0].chart.xAxis[0].reversed : false;
+          var serType = ($.trim(graphObj.options.chart.defaultSeriesType)) ? graphObj.options.chart.defaultSeriesType : false;
+          var stackFlag = $.trim(graphObj.options.plotOptions.column.stacking);
+          if (stackFlag == 'true') {
+            serType = 'stacked';
+          }
+
+          if (graphObj.options.plotOptions.column.scatterLine == true) {
+            serType = 'scatterLine';
+          }
+
+          var fileType = 'application/pdf';
+          if (type == 'jpeg') {
+            fileType = 'image/jpeg';
+          }
+          else if (type == 'png') {
+            fileType = 'image/png';
+          }
+          else if (type == 'svg') {
+            fileType = 'image/svg+xml';
+          }
+          chartTitle = "Adolescents and Youth Dashboard - " + countryName;
+          var title = chartTitle;
+          var fName = countryName;
+          var subtitleText = $(this).parents('.dashboard-country-outer-box').find('.dashboard-country-chart-section-title').html();
+          var titleprop = {text: title, style: {fontSize: '14px', color: '#000000'}, useHTML: true};
+          graphObj.exportChart({
+            type: fileType
+            , filename: fName // areaName - chart title(alphabets only).pdf.
+          },
+            {title: titleprop, subtitle: {text: subtitleText, style: {fontSize: '11px'}}, legend: {title: '', y: 0}}
+          );
+          return false;
+        }
+      }
+      else { // Download Map.
+        // Get chart container div id.
+        var visDivID = $(this).parents('.dashboard-country-outer-box').find('.map_part').prop('id');
+        var fileType = this.type;
+        if (fileType == 'csv') {
+          var chart = $('#' + visDivID).highcharts();
+          var mapchartdata = chart.series[0].data;
+          var mapcategories = [];
+          $(mapchartdata).each(function (index) {
+            mapcategories.push(mapchartdata[index].properties['NAME1_']);
+          });
+          chart.axes[0].categories = mapcategories;
+          chart.axes[1].categories = mapcategories;
+          chart.axes[0].names = mapcategories
+          chart.axes[1].names = mapcategories
+          var chart = $('#' + visDivID).highcharts();
+          $(this).attr('href', 'data:text/csv;charset=utf-8,' + escape(chart.getCSV()));
+          $(this).attr('download', countryName + "-map.csv");
+        }
+        else {
+          // Visualization object type.
+          var objType = 'map';
+          // Get visualization object.
+          var obj = window[visDivID];
+          // Chart Title.
+          var chartTitle = '';
+          var subtitle = $('#country_name h3').text();
+          if (visDivID == 'map_area_indicator_data') {
+            objType = 'map';
+            chartTitle = 'Prevalence of Female Genital Mutilation (FGM) among Women Aged 15-49';
+          }
+          chartTitle = "Adolescents and Youth Dashboard - " + countryName;
+          subtitle = $(this).parents('.dashboard-country-outer-box').find('.dashboard-country-chart-section-title').html();
+
+          // Filename.
+          var mapfilename = countryName;
+          // Name of file to be used while downloading.
+          var selVisFileName = 'chart';
+          // Apply visualization additional settings like title, subtile before to download.
+          objDwnldSettings = {};
+          if (objType == 'chart') {
+            objDwnldSettings = {title: {text: chartTitle, style: {'font-size': '12px', 'font-family': 'Lucida Grande, Lucida Sans Unicode, Verdana, Arial, Helvetica, sans-serif', 'color': '#3C3C3C', 'fontWeight': 'bold'}, subtitle: {enabled: true}}};
+          }
+          else if (objType == 'map') {
+            selVisFileName = 'map';
+            objDwnldSettings = {
+              'title': {
+                'text': chartTitle,
+                'style': {
+                  'font-size': '12px',
+                  'font-family': 'Lucida Grande, Lucida Sans Unicode, Verdana, Arial, Helvetica, sans-serif',
+                  'fill': '#3C3C3C',
+                  'color': '#3C3C3C',
+                  'fontWeight': 'bold'
+                }
+              },
+              'subtitle': {
+                'text': subtitle,
+                'style': {
+                  'font-size': '10px',
+                  'font-family': 'Lucida Grande, Lucida Sans Unicode, Verdana, Arial, Helvetica, sans-serif',
+                  'fill': '#3C3C3C',
+                  'color': '#3C3C3C',
+                  'fontWeight': 'normal'
+                }
+              },
+            };
+          }
+
+          dfa_dwnldvisualization.download(objType, obj, selVisFileName, fileType, objDwnldSettings, mapfilename);
+        }
+      }
+    });
+    // Fullscreen icon.
+    $('.fullscreen').on('click', function () {
+      var containerParentDivID = visDivID = obj = null;
+      // Hide scroll bar in full screen.
+      $('html').css('overflow', 'hidden');
+
+      // Fullscreen container Map.
+      if ($(this).parents('.dashboard-country-outer-box').find('button.map').hasClass('active')) {
+        // Parent div of map used in fullscreen.js plugin.
+        var containerParentDivID = $(this).parents('.dashboard-country-outer-box').find('.map_part').prop('id');
+        var visDivID = $(this).parents('.dashboard-country-outer-box').find('.map_part').prop('id');
+      }
+
+      // Fullscreen container Graph.
+      if ($(this).parents('.dashboard-country-outer-box').find('button.graph').hasClass('active')) {
+        var graphId = '.' + $(this).parents('.dashboard-country-outer-box').find('button.graph').prop('id');
+        var graphDivId = '#' + $(graphId).prop('id');
+        // Parent div of div used in fullscreen.js plugin.
+        var containerParentDivID = $(graphDivId).parent().prop('id');
+        visDivID = $(graphId).prop('id');
+      }
+
+      // Title for table in fullscreen.
+      var chartTitle = $(this).parents('.dashboard-country-outer-box').find('.dashboard-country-chart-section-title').html();
+      $('.fullscreen-table-title').html(chartTitle);
+
+      // Visualization object type.
+      var objType = 'chart';
+      var obj = window[visDivID];
+
+      // Visualization object new/additional settings for full screeen.
+      var objSettings = {
+        'title': {
+          'text': chartTitle,
+          'align': 'center',
+          'style': {
+            'color': '#666666',
+            'fontWeight': 'bold',
+            'font-size': '12px',
+            'font-family': 'Lucida Grande, Lucida Sans Unicode, Verdana, Arial, Helvetica, sans-serif',
+          }
+        }
+      };
+
+      // Visualization object share options.
+      var objShareOptions = {
+        'enabled': false,
+        'url': (window.location != window.parent.location) ? document.referrer : document.location.href,
+        'iconSize': 'big',
+        'callback': '',
+        'onmousehover': false,
+        'containerParentDivID': containerParentDivID,
+        'containerDivId': visDivID,
+        'chartType': objType
+      };
+      // Set flag to show table by default.
+      var tblDefaultOpt = true;
+
+      // Call function to show full screen.
+      dfa_fullscreen.show(objType, obj, containerParentDivID, objSettings, objShareOptions, tblDefaultOpt);
+      $('.icon_bg').css('display', 'none');
+      return false;
+    });
+    // Fullscreen Showchart.
+    showChart = function (obj, objSettings) {
+      this.containerWidth = '';
+      // Set variables to use later for undo of full screen
+      // Getting visualization container width.
+      this.containerWidth = obj.chartWidth;
+      // Getting visualization container height.
+      this.containerHeight = obj.chartHeight;
+      // Getting chart title properties.
+      this.titleProperties = dfa_fullscreen.getChartTitleProperties('title', obj);
+      // Getting chart subtitle properties.
+      this.subTitleProperties = dfa_fullscreen.getChartTitleProperties('subtitle', obj);
+      // Getting chart original legend settings used to restore legend.
+      this.legendOldSettings = obj.legend;
+      // Getting chart x-axis and y-axis properties.
+      var xAxisChartProperties = dfa_fullscreen.getChartAxisproperties(obj, 'xAxis', objSettings.xAxis);
+      var yAxisChartProperties = dfa_fullscreen.getChartAxisproperties(obj, 'yAxis', objSettings.yAxis);
+      // Getting chart data labels properties.
+      var dataLabelsProperties = dfa_fullscreen.getChartDataLblProperties(obj);
+      // Getting chart parent container width and height to use later for undo of full screen.
+      var containerParentDivWidth = dfa_fullscreen.fullScreenContDivIDObj.width();
+      var containerParentDivHeight = dfa_fullscreen.fullScreenContDivIDObj.height();
+      /*
+       * $ Blocking function to masking/unmasking screen when on/off fullscreen
+       */
+      $.blockUI({
+        // Container Parent div object.
+        message: dfa_fullscreen.fullScreenContDivIDObj,
+        // Default css to be used for masking.
+        css: {
+          top: '0%', left: '', right: '0px', width: '100%', height: '100%', cursor: 'auto'
+        },
+        // When page is blocked to show full screen.
+        onBlock: function () {
+          var graphId = '.' + $(this).parents('.dashboard-country-outer-box').find('button.graph').prop('id');
+          var chartId = $(graphId).prop('id');
+
+          // Call function to add export options.
+          dfa_fullscreen.addExportOptions();
+          // Call function to save new chart settings.
+          dfa_fullscreen.saveChartNewSettings();
+          // Set chart size as per as full screen
+          if (!dfa_fullscreen.viewTblDfltFlg) {                // if by default table view is not on.
+            dfa_fullscreen.obj.setSize(dfa_fullscreen.fullScreenContDivIDObj.width(), dfa_fullscreen.fullScreenContDivIDObj.height(), true);
+          }
+          // Call function to add share options.
+          if (dfa_fullscreen.objShareOptions.enabled) {
+            dfa_fullscreen.addShareOptions();
+          }
+          // Call function to view chart data in table format
+          if (dfa_fullscreen.viewTblDfltFlg) {                // if by default table view is on.
+            dfa_fullscreen.viewTable();
+          }
+          $('#TblDtVw').css({'margin-top': '0px'});
+          $('#visTblDvId').css({'margin-top': '0px'});
+          if (chartId == 'CO2') {
+            $('#CO2').css({'margin': '3px'});
+            graphObj.setTitle({
+              y: 0,
+            });
+          }
+          return false;
+        },
+        // When page is unblocked to hide full screen.
+        // Exit fullscreen.
+        onUnblock: function () {
+
+          // Reset the Map.
+          if ($('#dfapi-fs-outer-container').children('div').hasClass('map_part')) {
+            // Get the current map container div id.
+            var map_id = $('#dfapi-fs-outer-container').children('div.map_part').prop('id');
+            // Get the map button id of the current card.
+            var mapbutton_id = $('#' + map_id).parents('.dashboard-country-outer-box').find('button.map').prop('id');
+            // Get the respective indicator and filter.
+            var indicator_class = mapbutton_id.replace('filter_', '');
+            if ($('.filter_' + indicator_class).hasClass("square-input-element")) {
+              // Reset the map according filter click.
+              $('.filter_' + indicator_class).find('input.active').siblings('.iCheck-helper').trigger("click");
+            }
+            else
+            {
+              // Reset the map according indicator click if filter not present.
+              $('input.' + indicator_class).siblings('.iCheck-helper').trigger("click");
+            }
+          }
+          // Reset the graph.
+          else if ($('#dfapi-fs-outer-container').children('div').children('div').hasClass('bar_chart')) {
+            // Reset the size of graph.
+            var chartid = $('#dfapi-fs-outer-container').find('.bar_chart').prop('id');
+            if (chartid !== undefined) {
+              $('#' + chartid).highcharts().setSize('600', '400');
+            }
+            // Hide the graph title on fullscreen exit.
+            $('.highcharts-title').hide();
+            // Reset the graph according graph button click.
+            var bar_id = $('#dfapi-fs-outer-container').children('div').children('div.bar_chart').prop('id');
+            $('#' + bar_id).parents('.dashboard-country-outer-box').find('button.graph').click();
+          }
+          else {
+          }
+          // Remove fullscreen outer div.
+          // Remove fullscreen container on exit.
+          var cnt = $("#dfapi-fs-outer-container").contents();
+          $("#dfapi-fs-outer-container").parent().replaceWith(cnt);
+          return false;
+        }
+      });
+    }
+    // Function to close full screen.
+    closeFullScreen = function () {
+
+      tableScreenFlg = false;
+      // Remove full screen realted divs.
+      if ($("#visTblDvId").length) {
+        $("#visTblDvId").remove();
+      }
+      if ($('div.dfapi-share-box').length) {
+        $('div.dfapi-share-box').remove();
+      }
+      if ($('div.dfapi-action-box').length) {
+        $('div.dfapi-action-box').remove();
+      }
+      // Call unmasking
+      $.unblockUI();
+    }
+
+    // Load highcharts map data.
+    loadHCMapData = function (mapGeojson, mapData, map_div_id) {
+      // Show text and hide icons when no map available.
+      if (mapData.length == 0) {
+        $("#" + map_div_id).html("Data not available").css({"text-align": "center", "margin": "50px", "font-size": "26px", "font-weight": "normal", "color": "#a7a2ab"});
+        $("#" + map_div_id).parents('.dashboard-country-outer-box').find('#action-links').hide();
+        $("#" + map_div_id).css('height', 'auto');
+      }
+      else {
+        // Show icons when no mao available.
+        $("#" + map_div_id).parents('.dashboard-country-outer-box').find('#action-links').show();
+        if (mapData && RangeOnePointVal.length > 1) {
+          // Check if the selected indicator is in the array IndLowerIsGood.
+          if ([selOpt] in IndLowerIsGood) {
+            // Legend Color Code when low is good.
+            var dataClassesArr = [{from: Number(RangeOnePointVal[0].toFixed(1)), to: Number(RangeOnePointVal[1].toFixed(1)), name: legend_labels[0], color: "#FF552D"}, {from: Number((RangeOnePointVal[1] + 0.1).toFixed(1)), to: Number(RangeOnePointVal[2].toFixed(1)), name: legend_labels[1], color: "#FFCC00"}, {from: Number((RangeOnePointVal[2] + 0.1).toFixed(1)), to: Number(RangeOnePointVal[3].toFixed(1)), name: legend_labels[2], color: "#6699FF"}, {from: Number((RangeOnePointVal[3] + 0.1).toFixed(1)), to: Number((RangeOnePointVal[3] + 0.1).toFixed(1)) + 50, name: legend_labels[3], color: "#0000FF"}];
+          }
+          else {
+            // Variable for legend color array.
+            var dataClassesArr = [{from: Number(RangeOnePointVal[0].toFixed(1)), to: Number(RangeOnePointVal[1].toFixed(1)), name: legend_labels[0], color: "#0000FF"}, {from: Number((RangeOnePointVal[1] + 0.1).toFixed(1)), to: Number(RangeOnePointVal[2].toFixed(1)), name: legend_labels[1], color: "#6699FF"}, {from: Number((RangeOnePointVal[2] + 0.1).toFixed(1)), to: Number(RangeOnePointVal[3].toFixed(1)), name: legend_labels[2], color: "#FFCC00"}, {from: Number((RangeOnePointVal[3] + 0.1).toFixed(1)), to: Number((RangeOnePointVal[3] + 0.1).toFixed(1)) + 50, name: legend_labels[3], color: "#FF552D"}];
+          }
+        }
+        else {
+        }
+        // Get join by array based selected area id key in map geojson shape file.
+        var joinByArr = ['ID_', 'code'];
+
+        // Initiate the chart.
+        window[map_div_id] = new Highcharts.Map({
+          chart: {
+            renderTo: map_div_id,
+            borderWidth: 0,
+            backgroundColor: '#fff',
+            style: {
+              fontFamily: '"Helvetica Neue",Helvetica,Arial,sans-serif'
+            },
+          },
+          title: {
+            text: ' ',
+            style: {
+              color: '#000',
+              font: 'bold 14px "Helvetica Neue",Helvetica,Arial,sans-serif'
+            }
+          },
+          subtitle: {
+            useHTML: true,
+            text: ' ',
+            style: {
+              color: '#70A7FF',
+              font: 'bold 11px "Helvetica Neue",Helvetica,Arial,sans-serif'
+            }
+          },
+          mapNavigation: {
+            enabled: false,
+            enableMouseWheelZoom: false,
+            enableDoubleClickZoom: false,
+            enableDoubleClickZoomTo: false
+          },
+          colorAxis: {dataClasses: dataClassesArr},
+          legend: {
+            layout: 'horizontal',
+            align: 'center',
+            verticalAlign: 'bottom',
+            floating: false,
+            title: {
+              text: ' '
+            },
+            itemStyle: {
+              fontWeight: '0',
+              fontStyle: '"Helvetica Neue",Helvetica,Arial,sans-serif',
+              color: '#7B7B7B',
+              textDecoration: 'none'
+            }
+          },
+          plotOptions: {
+            series: {
+              cursor: 'pointer',
+              point: {
+                events: {}
+              }
+            }
+          },
+          tooltip: {
+            useHTML: true,
+            formatter: function () {
+              return this.point.properties.NAME1_ + ': ' + this.point.value + '%';
+            }
+          },
+          exporting: {
+            csv: {
+              columnHeaderFormatter: function (series, key) {
+                return 'value';
+              }
+            },
+            enabled: false,
+            chartOptions: {
+              chart: {
+                events: {
+                  load: function () {
+                    this.renderer.image('http://www.unfpa.org/sites/all/modules/sowp/images/logo.svg', -12, 5, 79, 37)
+                      .add();
+                    this.renderer.text('(c) United Nations Population Fund', 10, 447)
+                      .attr({
+                        rotation: 0
+                      })
+                      .css({
+                        color: '#000000',
+                        fontSize: '8px',
+                        fontStyle: 'normal'
+                      })
+                      .add();
+                    this.renderer.text('Source: Demographic and Health Surveys 2013', 430, 447)
+                      .attr({
+                        rotation: 0
+                      })
+                      .css({
+                        color: '#000000',
+                        fontSize: '8px',
+                        fontStyle: 'normal'
+                      })
+                      .add();
+                  }
+                }
+              }
+            },
+          },
+          credits: {enabled: false},
+          series: [{
+              data: mapData,
+              mapData: mapGeojson,
+              allAreas: true,
+              states: {
+                hover: {
+                  color: '#BADA55',
+                }
+              },
+              joinBy: joinByArr,
+              dataLabels: {
+                enabled: true,
+                formatter: function () {
+
+                },
+              }
+            }]
+
+        }, function (chart) {
+
+        });
+      }
+    };
+    // Function to get selected indicator map data.
+    function getMapData(selOpt)
+    {
+      // Get the values for country with file present.
+      return mapDisplayData[selOpt]['seriesData'];
+    }
+    // Function used in cases when file does not exist and onchange of indicators data is required.
+    function getApidata(selOpt) {
+      mpdataCntselectedApi = 0;
+      var allIusDataApi = [];
+      var iusSelected = areaJsonDataObj['by_' + mapDiv][selOpt]['IUSGID'];
+      if (iusSelected != '') {
+        iusGidSelSplit = iusSelected.split("||");
+        concatIusGid = iusGidSelSplit[0] + "," + iusGidSelSplit[1] + "," + iusGidSelSplit[2];
+      }
+      if (mapDatafrmApi !== '') {
+        for (var mdInd in mapDatafrmApi) {
+
+          var mpdataSecIndApi = mapDatafrmApi[mdInd];
+          mdIndSplitApi = mdInd.split(',');
+          mdIndConcatApi = mdIndSplitApi[0] + '||' + mdIndSplitApi[1] + '||' + mdIndSplitApi[2];
+          allIusDataApi[mdInd] = [];
+          for (var mdInnerInd in mpdataSecIndApi) {
+
+            for (var mdSecondInnerInd in mpdataSecIndApi[mdInnerInd]) {
+
+              if (mdInd == concatIusGid) {
+                allIusDataApi[mdInd][mpdataCntselectedApi] = [];
+                allIusDataApi[mdInd][mpdataCntselectedApi]['code'] = mdSecondInnerInd;
+                allIusDataApi[mdInd][mpdataCntselectedApi]['id'] = mdSecondInnerInd;
+                allIusDataApi[mdInd][mpdataCntselectedApi]['value'] = mpdataSecIndApi[mdInnerInd][mdSecondInnerInd][0];
+                // allIusData[mdInd]= mpdataSecIndApi;.
+                mpdataCntselectedApi++;
+              }
+            }
+
+          }
+        }
+      }
+      var mapData1 = allIusDataApi[concatIusGid];
+      var mpJsonObj1 = convArrToObj(mapData1);
+      var mpJsonObjtoArr1 = convObjToArr(mpJsonObj1);
+      return mpJsonObjtoArr1;
+    }
+    // Function converts array to object.
+    var convArrToObj = function (array) {
+      var thisEleObj = new Object();
+      if (typeof array == "object") {
+        for (var i in array) {
+          var thisEle = convArrToObj(array[i]);
+          thisEleObj[i] = thisEle;
+        }
+      }
+      else {
+        thisEleObj = array;
+      }
+
+      return thisEleObj;
+    };
+    // Function converts object to array.
+    var convObjToArr = function (Obj) {
+      var returArr = [];
+      for (var i in Obj) {
+        returArr[i] = Obj[i];
+      }
+      return returArr;
+    };
+    // Function to change map legend dyanmically.
+    function ChangeLegend(selOpt) {
+
+      if (selOpt != '') {
+        if (filexistAreaIdStatus == true) {
+          var dataArr = mapDisplayData[selOpt]['seriesData'];
+        }
+        else {
+          var dataArr = getApidata(selOpt);
+        }
+        // Creating new array for min and max.
+        valArr = new Array();
+        $.each(dataArr, function (ID, DV) {
+          valArr.push(DV['value']);
+        });
+        // Find min and max value
+        // 3.
+        var maxVal = Math.max.apply(Math, valArr);
+        // 1.
+        var minVal = Math.min.apply(Math, valArr);
+        var rangeDiffVal = maxVal - minVal;
+        var rangeVal = (rangeDiffVal / 4);
+        // Creating New array with values from min to max with rageVal interval.
+        RangeValArr = new Array();
+        for (var i = minVal; i < maxVal; i = (i + rangeVal)) {
+          RangeValArr.push(i);
+        }
+        // If range value is greater than 1 then give range and legend label.
+        if (RangeValArr.length > 1) {
+          RangeOnePointVal = [RangeValArr[0], RangeValArr[1], RangeValArr[2], RangeValArr[3]];
+          legend_labels = [RangeValArr[0].toFixed(1) + "% - " + RangeValArr[1].toFixed(1) + "%", (RangeValArr[1] + 0.1).toFixed(1) + "% - " + RangeValArr[2].toFixed(1) + "%", (RangeValArr[2] + 0.1).toFixed(1) + "% - " + RangeValArr[3].toFixed(1) + "%", (RangeValArr[3] + 0.1).toFixed(1) + "% and More"];
+        }
+      }
+    }
+
+    /*
+     *
+     * Functions for Bar and pie graphs.
+     */
+    // Intergrated function make map, graph and table.
+    function makeMapGraphTable()
+    {
+      $.each(chartMapConfigXMLNodeObj, function (key, val) {
+
+        // If table request called.
+        if (key.search("table_") != '-1') {
+          // Call function to plot table data.
+          makeTable(key, val);
+        }
+        // If graph request called.
+        else if (key.search("graph_") != '-1') {
+          // Call function to plot graph data.
+          makeGraph(key, val);
+        }
+      });
+    }
+    // Function to pass data into table from xml table node - table below pie chart.
+    function makeTable(tblDiv, tblXMLNode) {
+      var tableStr = '<table width="100%" cellpadding="0" cellspacing="0" border="0" class="fnt12">';
+      tableStr += '<tr><td class="txt_cntr  bd_bt" width="20%" style="font-weight:bold;">Year <span id = "ppl_tmprd"></span></td><td colspan="2" class="txt_cntr  bd_bt"  width="20%" style="font-weight:bold;"> Girls </td><td colspan="2" class="txt_cntr  bd_bt" width="20%" style="font-weight:bold;"> Boys</td></tr>';
+      tableStr += '<tr><td class="txt_cntr bd_bt " width="20%"> Age group</td><td class="txt_cntr bd_bt"  width="20%"> Number </td>				<td class="txt_cntr bd_bt" width="20%">Percentage</td> <td class="txt_cntr bd_bt" width="20%"> Number</td> <td class="txt_cntr bd_bt" width="20%"> Percentage</td></tr>';
+      var tblData = areaJsonDataObj[tblXMLNode];
+      // If bar chart data found properly.
+      if (tblData !== undefined && tblData != '' && tblData != null) {
+        $(tblData.seriesData.data).each(function (i, val) {
+
+          var zebraClass = (i % 2) ? ' class="key_tbl" ' : '';
+          var girl_number = girl_percent = boy_number = boy_percent = '';
+          if (typeof val.girl_number !== 'undefined' && val.girl_number != '' && val.girl_number != null) {
+            var girl_number = addThousandsSeparator(val.girl_number);
+          }
+          if (typeof val.girl_percent !== 'undefined' && val.girl_percent != '' && val.girl_percent != null) {
+            var girl_percent = val.girl_percent;
+          }
+          if (typeof val.boy_number !== 'undefined' && val.boy_number != '' && val.boy_number != null) {
+            var boy_number = addThousandsSeparator(val.boy_number);
+          }
+          if (typeof val.boy_percent !== 'undefined' && val.boy_percent != '' && val.boy_percent != null) {
+            var boy_percent = val.boy_percent;
+          }
+
+          tableStr += '<tr' + zebraClass + '><td class="txt_cntr" width="20%"> ' + val.age_group + '</td>';
+          tableStr += '<td class="txt_cntr"  width="20%"> ' + girl_number + ' </td>';
+          tableStr += '<td class="txt_cntr" width="20%">' + girl_percent + '</td> ';
+          tableStr += '<td class="txt_cntr" width="20%"> ' + boy_number + '</td>	';
+          tableStr += '<td class="txt_cntr" width="20%"> ' + boy_percent + '</td>';
+          tableStr += '</tr>';
+        });
+      }
+      else {
+        tableStr += '<tr><td class="txt_cntr" width="100%"  colspan="5"> No data found.</td></tr>';
+      }
+
+      tableStr += '</table>';
+      $('#' + tblDiv).html(tableStr);
+      // Check if population source data found.
+      if (typeof areaJsonDataObj['by_population_source'] !== 'undefined') {
+        if (typeof areaJsonDataObj['by_population_source']['seriesData']['sourceName'] !== 'undefined') {
+          $('#ppl_source_nm').html(areaJsonDataObj['by_population_source']['seriesData']['sourceName']);
+        }
+
+        if (typeof areaJsonDataObj['by_population_source']['seriesData']['sourceTmPeriod'] !== 'undefined') {
+          $('#ppl_tmprd').html(areaJsonDataObj['by_population_source']['seriesData']['sourceTmPeriod']);
+        }
+      }
+    }
+    // Get JSON object first key.
+    function addThousandsSeparator(value) {
+
+      if (value !== undefined && value !== '' && value !== null) {
+        return value.toString().replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1,");
+      }
+      else {
+        return value;
+      }
+    }
+    // Function to pass data into graph from xml graph node.
+    function makeGraph(graphDiv, graphOption)
+    {
+      var firstOpt = '';
+      if (typeof (graphOption) === 'object') {
+        // Returns first filter option for each graph.
+        firstOpt = getFirstOption(graphOption);
+      }
+      if (graphDiv === pieChartDiv) {
+        // Call function to make pie chart.
+        makePieChart(graphDiv, firstOpt);
+      }
+      else {
+        makeBarChart(graphDiv, firstOpt);
+      }
+    }
+    // Function to make pieChart.
+    function makePieChart(graphDiv, selOpt)
+    {
+      var pieChartData = getChartXMLDataNode(graphDiv, selOpt, graphType);
+      // If pie chart data found properly.
+      if (pieChartData !== undefined && pieChartData !== '' && pieChartData !== null) {
+        var pieDataSet = pieChartData.seriesData;
+        legendSettings = {
+          enabled: true,
+          layout: 'vertical', //vertical
+          backgroundColor: '#FFFFFF',
+          align: 'right',
+          verticalAlign: 'middle', //middle
+          floating: false,
+          borderWidth: 0,
+          useHTML: true,
+          borderWidth: 0,
+            borderRadius: 0,
+          itemMarginTop: 2,
+          symbolPadding: legendItemSymbolPadding,
+          symbolWidth: legendItemSymbolWidth,
+          itemStyle: {
+            fontSize: legendItemFontSize
+          },
+          labelFormatter: function () {
+            var legendName = this.name;
+            var legendName = legendName;
+            if (legendName == "Rural") {
+              legendName = '<span>' + this.name + '</span><span style="position: relative; left: -10px; display:block; width: 100px; height: 20px; pointer-events: none; z-index: 9999;"></span>';
+              this.itemMarginBottom = 10;
+              window.globalVar = 10;
+            }
+            else {
+              this.itemMarginBottom = 2;
+              legendName = this.name;
+              window.globalVar = 2;
+            }
+            return legendName;
+          },
+          itemMarginBottom: window.globalVar,
+        };
+
+        // Set pie size attributes.
+        pieDataSet[0].size = '25%';
+        pieDataSet[1].innerSize = '50%';
+        pieDataSet[1].size = '80%';
+        // Showed urban and rural in legend.
+        pieDataSet[0].showInLegend = true;
+        // Set first data point label to white.
+        pieDataSet[0].data[0].dataLabels = {"color": "#fff", style: {fontSize: '10px'}};
+        pieDataSet[0].data[1].dataLabels = {"color": "#fff", style: {fontSize: '10px'}};
+        pieDataSet[0].dataLabels = {"distance": -20, "connectorWidth": 0, "color": "#fff", style: {fontSize: '10px'}};
+
+        var width = $(window).width();
+        if (width >= 980) {
+          width = 600;
+        }
+        else if (width > 768 && width < 979) {
+          width = width / 2;
+        }
+        else {
+          width = width - 60;
+        }
+
+        chartSettings = {
+          renderTo: graphDiv,
+          type: 'pie',
+          height: 320,
+          width: width,
+        };
+        // Create the chart.
+        var chart = new Highcharts.Chart({
+          chart: chartSettings,
+          exporting:
+            {
+              enabled: false
+            },
+          legend: legendSettings,
+          credits: {
+            enabled: false
+          },
+          title: {
+            text: ''
+          },
+          yAxis: {
+            title: {
+              text: ''
+            }
+          },
+          plotOptions: {
+            pie: {
+              allowPointSelect: true,
+              cursor: 'pointer',
+              dataLabels: {
+                enabled: false,
+                formatter: function () {
+                  return this.y + '%';
+                }
+              },
+              center: ['50%', '50%']
+            }},
+          tooltip: {
+            formatter: function () {
+              return this.key + ' : ' + this.y + '%';
+            }},
+          series: pieDataSet
+        });
+      }
+      else {
+        window[graphDiv] = " ";
+        $("#" + graphDiv).html("Data not available").css({"text-align": "center", "margin": "50px", "font-size": "26px", "font-weight": "normal", "color": "#a7a2ab"});
+      }
+    }
+    // Function to get chart XML node name based on selected section and chart.
+    function getChartXMLDataNode(contentDv, selOpt, visualType)
+    {
+      var selOptData = [];
+      // If graph type called.
+      if (visualType === graphType) {
+        var chartXMLNode = getChartXMLNode(contentDv, selOpt);
+        selOptData = areaJsonDataObj[chartXMLNode];
+      }
+      return selOptData;
+    }
+    // Function to get chart XML node name based on sected section and chart.
+    function getChartXMLNode(chartDiv, otherOption)
+    {
+      var chartXMLNode = '';
+      if (otherOption !== '') {
+        chartXMLNode = chartMapConfigXMLNodeObj[chartDiv][otherOption];
+      }
+      else {
+        chartXMLNode = chartMapConfigXMLNodeObj[chartDiv];
+      }
+
+      return chartXMLNode;
+    }
+
+    /*
+     * Map data.
+     */
+    // Form data and pass for map.
+    var renderMapHighchartsAPI = function (selOpt, map_div_id, mapGeojson, mapDatafrmApi) {
+      var mpdataCnt = 0;
+      var mpdataCntselected = 0;
+      var allIusGids = [];
+      // Case when file found.
+      if (filexistAreaIdStatus === true) {
+        var iusSelected = mapDisplayData[selOpt]['IUSGID'];
+      }
+      else {
+        // Case when file not found.
+        var iusSelected = areaJsonDataObj['by_' + mapDiv][selOpt]['IUSGID'];
+      }
+      if (iusSelected !== '') {
+        iusGidSelSplit = iusSelected.split("||");
+        concatIusGid = iusGidSelSplit[0] + "," + iusGidSelSplit[1] + "," + iusGidSelSplit[2];
+      }
+      
+      // Case below execute when file not found.
+      if (filexistAreaIdStatus === false) {
+        if (mapDatafrmApi !== '') {
+          var finalMapData = [];
+          var allIusData = [];
+          // Prepare format of object for display data from api.
+          dataformatStatus = true;
+          for (var mdInd in mapDatafrmApi) {
+            dataformatStatus = false;
+            var selectediusFlag = false;
+            if (mdInd == concatIusGid) {
+              selectediusFlag = true;
+            }
+            var mpdataSecInd = mapDatafrmApi[mdInd];
+            var mpdataInnerCnt = 0;
+            mdIndSplit = mdInd.split(',');
+            mdIndConcat = mdIndSplit[0] + '||' + mdIndSplit[1] + '||' + mdIndSplit[2];
+            allIusData[mdInd] = [];
+            finalMapData[mdIndConcat] = [];
+            for (var mdInnerInd in mpdataSecInd) {
+
+              for (var mdSecondInnerInd in mpdataSecInd[mdInnerInd]) {
+
+                finalMapData[mdIndConcat][mpdataCnt] = [];
+                finalMapData[mdIndConcat][mpdataCnt]['code'] = mdSecondInnerInd;
+                finalMapData[mdIndConcat][mpdataCnt]['id'] = mdSecondInnerInd;
+                finalMapData[mdIndConcat][mpdataCnt]['value'] = mpdataSecInd[mdInnerInd][mdSecondInnerInd][0];
+                if (selectediusFlag === true) {
+                  allIusData[mdInd][mpdataCntselected] = [];
+                  allIusData[mdInd][mpdataCntselected]['code'] = mdSecondInnerInd;
+                  allIusData[mdInd][mpdataCntselected]['id'] = mdSecondInnerInd;
+                  allIusData[mdInd][mpdataCntselected]['value'] = mpdataSecInd[mdInnerInd][mdSecondInnerInd][0];
+                  mpdataCntselected++;
+                }
+                mpdataCnt++;
+              }
+
+            }
+          }
+          var finalMapDataObj = convArrToObj(finalMapData);
+          if (finalMapDataObj != '') {
+            // Preparing format process is completed to post.
+            dataformatStatus = true;
+          }
+          var mapDataAp = allIusData[concatIusGid];
+          var mpJsonObj = convArrToObj(mapDataAp);
+          // Format process completed to display selected ius  data.
+          var mpJsonObjtoArr = convObjToArr(mpJsonObj);
+          var allIusGidsObj = convArrToObj(allIusGids);
+          mapData = mpJsonObjtoArr;
+          // mapData=mpJsonObjtoArr;
+          // create file when format process completed.
+          if (dataformatStatus == true) {
+            ChangeLegend(selOpt);
+            loadHCMapData(mapGeojson, mpJsonObjtoArr, map_div_id); // Display selected ius data using api.
+          }
+        }
+      }
+      else {
+        ChangeLegend(selOpt);
+        var mapData = getMapData(selOpt);
+        loadHCMapData(mapGeojson, mapData, map_div_id); // Display selected ius data using api.
+
+      }
+
+    }
+
+    // Display maps for first indicator of each card.
+    // Adolescent and Child Marriage card Map.
+    selOpt = "perc_girl_age_20_24_mrd_bfr_15";
+    map_div_id = "map_area_indicator_data";
+    renderMapHighchartsAPI(selOpt, map_div_id, mapGeojson, mapDatafrmApi);
+
+    // Adolescent pregnancy card map.
+    selOpt = "perc_girl_age_20_24_gave_birth_bfr_15";
+    map_div_id = "map_area_indicator_data_adolescent_prg";
+    renderMapHighchartsAPI(selOpt, map_div_id, mapGeojson, mapDatafrmApi);
+
+    // Sexual reproductive card map.
+    selOpt = "perc_girl_age_15_19_have_knwldg_hiv_aids";
+    map_div_id = "map_area_indicator_data_sexual_reprd";
+    renderMapHighchartsAPI(selOpt, map_div_id, mapGeojson, mapDatafrmApi);
+
+    // Family planning card map.
+    selOpt = "perc_mrd_girl_age_15_19_using_contrcptn_mthd";
+    map_div_id = "map_area_indicator_data_family_planning";
+    renderMapHighchartsAPI(selOpt, map_div_id, mapGeojson, mapDatafrmApi);
+
+    // Gender equality card map.
+    selOpt = "perc_girl_age_15_19_take_contrcptn_desc_byself_or_with_hsbnd";
+    map_div_id = "map_area_indicator_data_gender_equality";
+    renderMapHighchartsAPI(selOpt, map_div_id, mapGeojson, mapDatafrmApi);
+
+    // Bar chart.
+    function makeBarChart(graphDiv, selOpt)
+    {
+      var barChartData = getChartXMLDataNode(graphDiv, selOpt, graphType);
+
+      // If bar chart data found properly.
+      if (barChartData !== undefined && barChartData !== '' && barChartData !== null) {
+        var xAxisCatg = barChartData.categoryData;
+        var seriesData = barChartData.seriesData;
+        var minVal = 0;
+        var maxVal = null;
+        var tickVal = 20;
+        
+        if (graphDiv === "graph_adolescnt_mrg") {
+          var SeriesName = barChartData.seriesData[0].name;
+          var new_arr1 = new Array();
+          for (i = 0; i < barChartData.seriesData[1].data.length; i++) {
+            var catg = barChartData.categoryData[i];
+            var prevval = barChartData.seriesData[1].data[i];
+            seriesData[0].data[i] = {'y': seriesData[0].data[i] - seriesData[1].data[i], 'ry': seriesData[0].data[i]};
+            new_arr1[catg] = prevval;
+          }
+        }
+        else if (graphDiv === "graph_perc_mrd_female_used_or_not_contrcptn") {
+          var SeriesName1 = barChartData.seriesData[1].name;
+          var new_arr = new Array();
+          if (selOpt === 'girl_15_19' && graph_perc_mrd_female_used_or_not_contrcptn_girl_15_19 === false) {
+            for (i = 0; i < barChartData.seriesData[1].data.length; i++) {
+              var catg = barChartData.categoryData[i];
+              var prevval = barChartData.seriesData[2].data[i];
+              seriesData[1].data[i] = {'y': seriesData[1].data[i] - seriesData[2].data[i], 'ry': seriesData[1].data[i]};
+              new_arr[catg] = prevval;
+            }
+            graph_perc_mrd_female_used_or_not_contrcptn_girl_15_19 = true;
+          }
+          else if (selOpt === 'girl_20_24' && graph_perc_mrd_female_used_or_not_contrcptn_girl_20_24 === false) {
+            // If update series only first time, for option 'all_girl_15_19'.
+            for (i = 0; i < barChartData.seriesData[1].data.length; i++) {
+              var catg = barChartData.categoryData[i];
+              var prevval = barChartData.seriesData[2].data[i];
+              seriesData[1].data[i] = {'y': seriesData[1].data[i] - seriesData[2].data[i], 'ry': seriesData[1].data[i]};
+              new_arr[catg] = prevval;
+              if (i === 0) {
+              }
+            }
+            graph_perc_mrd_female_used_or_not_contrcptn_girl_20_24 = true;
+          }
+          else {
+            for (i = 0; i < barChartData.seriesData[1].data.length; i++) {
+              var catg = barChartData.categoryData[i];
+              var prevval = barChartData.seriesData[2].data[i];
+              new_arr[catg] = prevval;
+            }
+
+          }
+        }
+        else if (graphDiv === "graph_adolescnt_prg") {
+          var SeriesName3 = barChartData.seriesData[0].name;
+          var new_arr2 = new Array();
+          for (i = 0; i < barChartData.seriesData[1].data.length; i++) {
+            var catg = barChartData.categoryData[i];
+            var prevval = barChartData.seriesData[1].data[i];
+            seriesData[0].data[i] = {'y': seriesData[0].data[i] - seriesData[1].data[i], 'ry': seriesData[0].data[i]};
+            new_arr2[catg] = prevval;
+          }
+        }
+        else if (graphDiv === "graph_perc_female_sexuly_active") {
+          if (selAreaId === "NPL" && selOpt === 'never-married_girl_15_19') {
+            minVal = 0;
+            maxVal = 10;
+            tickVal = 1;
+          }
+          var SeriesName4 = barChartData.seriesData[0].name;
+          var new_arr3 = new Array();
+          // If update series only first time, for option 'never-married_girl_15_19'.
+          if (selOpt === 'never-married_girl_15_19' && graph_perc_female_sexuly_active_married_girl_15_19 === false) {
+            for (i = 0; i < barChartData.seriesData[1].data.length; i++) {
+              var catg = barChartData.categoryData[i];
+              var prevval = barChartData.seriesData[1].data[i];
+              seriesData[0].data[i] = {'y': seriesData[0].data[i] - seriesData[1].data[i], 'ry': seriesData[0].data[i]};
+              new_arr3[catg] = prevval;
+            }
+            graph_perc_female_sexuly_active_married_girl_15_19 = true;
+          }
+          else if (selOpt === 'all_girl_15_19' && graph_perc_female_sexuly_active_all_girl_15_19 === false) {
+            // If update series only first time, for option 'all_girl_15_19'.
+            for (i = 0; i < barChartData.seriesData[1].data.length; i++) {
+              var catg = barChartData.categoryData[i];
+              var prevval = barChartData.seriesData[1].data[i];
+              seriesData[0].data[i] = {'y': seriesData[0].data[i] - seriesData[1].data[i], 'ry': seriesData[0].data[i]};
+              new_arr3[catg] = prevval;
+            }
+            graph_perc_female_sexuly_active_all_girl_15_19 = true;
+          }
+          else {
+            for (i = 0; i < barChartData.seriesData[1].data.length; i++) {
+              var catg = barChartData.categoryData[i];
+              var prevval = barChartData.seriesData[1].data[i];
+              new_arr3[catg] = prevval;
+            }
+          }
+        }
+
+        var chartMarginBottom = barChartData.chartMarginBottom;
+        var width = $(window).width();
+        // Set width and height for bar graph.
+          if (width >= 980) {
+            width = 600;
+          }
+          else if (width > 768 && width < 979) {
+            width = width / 2 + 50;
+          }
+          else {
+            width = width - 80;
+          }
+          chartSettings = {
+            renderTo: graphDiv,
+            type: 'bar',
+            width: width,
+            marginBottom: chartMarginBottom,
+            spacing: [0, 0, 10, 0]
+          };
+          // If xaxis found and its length is greater than 0 then set chart height.
+          if (typeof xAxisCatg !== 'undefined' && xAxisCatg.length > 0) {
+
+            if (graphDiv === 'graph_adolescnt_mrg' || graphDiv === 'graph_adolescnt_prg' || graphDiv === 'graph_perc_female_have_knwldg_hiv_aids' || graphDiv === 'graph_perc_mrd_female_used_or_not_contrcptn' || graphDiv === 'graph_perc_female_contrcptn_dmnd_unmet' || graphDiv === 'graph_perc_female_contrcptn_dmnd_met' || graphDiv === 'graph_perc_wife_think_beating_jusfd' || graphDiv === 'graph_perc_female_take_contrcptn_desc_byself_or_with_hsbnd' || graphDiv === 'graph_perc_female_sexuly_active' || graphDiv === 'graph_perc_age_diff_btwn_female_and_partnr' || graphDiv === 'graph_perc_mrd_female_used_or_not_contrcptn') {
+              height = 400;
+              chartSettings['height'] = height;
+            }
+            else if (graphDiv === 'graph_part_resd_household_adolescnt' || graphDiv === 'graph_schl_atnd_adolescnt_female' || graphDiv === 'graph_mrtl_status_adolescnt' || graphDiv === 'graph_schl_atnd_adolescnt_male') {
+              height = 550;
+              chartSettings['height'] = height;
+            }
+            else {
+              chartSettings['height'] = xAxisCatg.length * 22;
+            }
+          }
+        
+        var barXAxisLabel = barChartData.XAxisLabel;
+        var barYAxisLabel = barChartData.YAxisLabel;
+        var legendVisibility = barChartData.legendVisibility;
+        var barGroupFlg = true;
+        barGroupFlg = barChartData.groupFlg;
+        if (barChartData.legendClick === 'true') {
+          var legendClickFlag = true;
+        }
+        else {
+          var legendClickFlag = false;
+        }
+        var errFlag = barChartData.errorStatus;
+        if (errFlag === "true") {
+
+          window[graphDiv] = " ";
+          $("#" + graphDiv).html("Data not available").css({"text-align": "center", "margin": "50px", "font-size": "26px", "font-weight": "normal", "color": "#a7a2ab"});
+        }
+        else {
+          window[graphDiv] = chart = new Highcharts.Chart({
+            chart: chartSettings,
+            credits: {
+              enabled: false
+            },
+            exporting: {
+              enabled: false,
+              chartOptions: {
+                legend: {
+                  itemMarginBottom: -5
+                },
+                chart: {
+                  spacingTop: 25,
+                  spacingBottom: 25,
+                  spacingLeft: 25,
+                  spacingRight: 25,
+                  events: {
+                    load: function () {
+
+                      (height > 500) ? yval = 538 : yval = 395;
+                      this.renderer.image('http://www.unfpa.org/sites/all/modules/sowp/images/logo.svg', -12, 5, 79, 37)
+
+                        .add();
+                      this.renderer.text('(c) United Nations Population Fund', 10, yval)
+                        .attr({
+                          rotation: 0
+                        })
+                        .css({
+                          color: '#000000',
+                          fontSize: '8px',
+                          fontStyle: 'normal'
+                        })
+                        .add();
+                      this.renderer.text('Source: Demographic and Health Surveys 2013', 405, yval)
+                        .attr({
+                          rotation: 0
+                        })
+                        .css({
+                          color: '#000000',
+                          fontSize: '8px',
+                          fontStyle: 'normal',
+                          position: 'absolute'
+                        })
+                        .add();
+                    }
+                  }
+                }
+              }
+            },
+            title: {
+              text: '',
+              style: {
+                fontSize: chartTitleFontSize,
+                fontWeight: 'bold'
+              }
+            },
+            xAxis: {
+              categories: xAxisCatg,
+              title: {
+                text: barXAxisLabel
+              },
+              labels: {
+                style: {
+                  width: 500,
+                  fontSize: xAxisFontSize
+                }
+              }
+            },
+            yAxis: {
+              min: minVal,
+              max: maxVal,
+              tickInterval: tickVal,
+              title: {
+                align: 'low',
+                text: barYAxisLabel, //null,
+                style: {
+                  fontSize: chartLabelFontSize
+                }
+              },
+              labels: {
+                overflow: 'justify',
+                formatter: function () {
+                  return this.value;
+                },
+                style: {
+                  fontSize: yAxisFontSize
+                }
+              }
+            },
+            plotOptions: {
+              series: {
+                bar: {
+                  grouping: barGroupFlg,
+                  shadow: false
+                },
+                events: {
+                  legendItemClick: function () {
+                    return legendClickFlag;
+                  }
+                },
+                dataLabels: {
+                  enabled: true,
+                  color: 'white',
+                  overflow: 'justify',
+                  formatter: function () {
+                    return '';
+                  },
+                  style: {
+                    fontSize: seriesItemFontSize
+                  }
+                },
+                pointWidth: barChartData.pointWidth,
+                // 'percent'// 'normal'.
+                stacking: barChartData.stackVal
+              }
+            },
+            tooltip: {
+              borderRadius: 2,
+              shadow: false,
+              formatter: function () {
+                // alert('hey');.
+                if (this.series.name === SeriesName1) {
+                  if (new_arr[this.x] !== null) {
+                    var plus = parseFloat(this.y) + parseFloat(new_arr[this.x]);
+                  }
+                  else {
+                    var plus = parseFloat(this.y);
+                  }
+                }
+                else if (this.series.name === SeriesName) {
+                  if (new_arr1[this.x] !== null) {
+                    var plus = parseFloat(this.y) + parseFloat(new_arr1[this.x]);
+                  }
+                  else {
+                    var plus = parseFloat(this.y);
+                  }
+
+                }
+                else if (this.series.name === SeriesName3) {
+                  if (new_arr2[this.x] !== null) {
+                    var plus = parseFloat(this.y) + parseFloat(new_arr2[this.x]);
+                  }
+                  else {
+                    var plus = parseFloat(this.y);
+                  }
+
+                }
+                else if (this.series.name === SeriesName4) {
+                  if (new_arr3[this.x] !== null) {
+                    var plus = parseFloat(this.y) + parseFloat(new_arr3[this.x]);
+                  }
+                  else {
+                    var plus = parseFloat(this.y);
+                  }
+
+                }
+                else {
+                  var plus = parseFloat(this.y);
+                }
+                return '<b>' + this.x + '</b><br>' + this.series.name + ' : ' + plus.toFixed(1) + '%';
+              }
+            },
+            legend: {
+              reversed: true,
+              padding: 5,
+              shadow: false,
+              enabled: legendVisibility,
+              borderWidth: 0,
+              borderRadius: 0,
+              itemMarginTop: 2,
+              itemMarginBottom: 2,
+              symbolPadding: legendItemSymbolPadding,
+              symbolWidth: legendItemSymbolWidth,
+              itemStyle: {
+                fontSize: legendItemFontSize
+              }
+            },
+            series: seriesData
+          });
+        }
+      }
+      else {
+        window[graphDiv] = " ";
+        $("#" + graphDiv).html("Data not available").css({"text-align": "center", "margin-top": "50px", "margin-bottom": "50px", "font-size": "26px", "font-weight": "normal", "color": "#a7a2ab"});
+      }
+    }
+    // Returns first filter option for each graph.
+    getFirstOption = function (jsonObj) {
+      for (var propName in jsonObj) {
+        if (jsonObj.hasOwnProperty(propName)) {
+          // Or do something with it and break.
+          return propName;
+        }
+      }
+    };
+    // Call to the function which creates Graphs and table.
+    makeMapGraphTable();
+  });
+})(jQuery);
+
+
+

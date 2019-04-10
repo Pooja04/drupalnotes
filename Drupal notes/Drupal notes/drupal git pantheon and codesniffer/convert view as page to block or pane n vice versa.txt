@@ -1,0 +1,11 @@
+current view ka export lo
+n import new  view 
+copy paste the exported view
+
+$handler me
+eg : $handler = $view->new_display('panel_pane', 'Updates listing pane', 'updates_listing_pane');
+replace page with block (page to block)
+replace page with panel_pane (page to pane)
+replace block with page (block to page)
+write the same name
+check 'Replace existing view'

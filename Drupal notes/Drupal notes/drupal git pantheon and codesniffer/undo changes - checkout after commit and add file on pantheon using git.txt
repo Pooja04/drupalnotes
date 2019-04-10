@@ -1,0 +1,46 @@
+code changes -undo
+git checkout -- filepath/filename
+
+commit-undo
+git log
+git reset commit-code
+
+
+example
+
+git log
+commit d62b95a42f42beca2f4d627e77615afb21b761ed
+Merge: 3049632 ad2c985
+Author: Pooja Shet <pooja.shet@datamatics.com>
+Date:   Mon Oct 17 18:58:50 2016 +0530
+
+    Merge branch 'data' of ssh://codeserver.dev.3207353e-08ec-4820-a547-8efa816e998e.drush.in:2222/~/repository into data
+
+commit 3049632cc125b4748d084681049bd48b749f1494
+Author: Pooja Shet <pooja.shet@datamatics.com>
+Date:   Mon Oct 17 18:52:17 2016 +0530
+
+    No data available div in supplies test
+
+commit ad2c985da341e06c44d6731a5c29f75d28bfdba5
+Merge: ba58197 fb2ebeb
+Author: Preethi Warrier <preethi.warrier@datamatics.com>
+Date:   Mon Oct 17 15:03:59 2016 +0530
+
+    Merge branch 'data' of ssh://codeserver.dev.3207353e-08ec-4820-a547-8efa816e998e.drush.in:2222/~/repository into data
+
+commit ba581974a991479b8585a753a2e07c7d8ad707f0
+anand@anand-VirtualBox:/var/www/html/unfpa-global(data)$ git reset ad2c985da341e06c44d6731a5c29f75d28bfdba5
+Unstaged changes after reset:
+M sites/all/modules/unfpa_global_opendata/templates/dashboard_country_page.tpl.php
+anand@anand-VirtualBox:/var/www/html/unfpa-global(data)$ git status
+On branch data
+Your branch is up-to-date with 'pantheon/data'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+ modified:   sites/all/modules/unfpa_global_opendata/templates/dashboard_country_page.tpl.php
+
+no changes added to commit (use "git add" and/or "git commit -a")
+anand@anand-VirtualBox:/var/www/html/unfpa-global(data)$ git

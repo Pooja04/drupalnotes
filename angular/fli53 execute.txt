@@ -1,0 +1,15 @@
+fli53 in ur folder
+
+npm start in one node js cmd prompt
+
+
+it will run without icons
+
+in second node js cmd prompt
+
+Install json server: npm install -g json-server
+
+got to cd : fli531\src\mock-api>
+
+json-server --watch db.json --port 3200
+

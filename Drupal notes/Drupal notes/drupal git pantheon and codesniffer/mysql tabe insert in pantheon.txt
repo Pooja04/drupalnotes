@@ -1,0 +1,41 @@
+mysql -u pantheon -peb4b7725a29448bfa9384ad01ec2273f -h dbserver.data.3207353e-08ec-4820-a547-8efa816e998e.drush.in -P 11104 pantheon
+
+
+connect url 
+connection info in ur pantheon account
+
+"Database"
+"Command Line:"
+
+
+
+open cmd 
+paste the command line 
+
+mysql -u pantheon -peb4b7725a29448bfa9384ad01ec2273f -h dbserver.data.3207353e-08ec-4820-a547-8efa816e998e.drush.in -P 11104 pantheon
+
+enter loggen in to mysql
+
+exit to logout from mysql
+
+
+mysql -u pantheon -peb4b7725a29448bfa9384ad01ec2273f -h dbserver.data.3207353e-08ec-4820-a547-8efa816e998e.drush.in -P 11104 pantheon < tbl_dashboard_procurement_category.sql
+
+
+mysql -u pantheon -peb4b7725a29448bfa9384ad01ec2273f -h dbserver.data.3207353e-08ec-4820-a547-8efa816e998e.drush.in -P 11104 pantheon < tbl_dashboard_procurement_data.sql
+
+mysqldump -u pantheon -peb4b7725a29448bfa9384ad01ec2273f -h dbserver.data.3207353e-08ec-4820-a547-8efa816e998e.drush.in -P 11104 pantheon > unfpa_global.sql
+
+
+
+-----
+see the tables added
+mysql -u pantheon -peb4b7725a29448bfa9384ad01ec2273f -h dbserver.data.3207353e-08ec-4820-a547-8efa816e998e.drush.in -P 11104 pantheon
+
+enter loggen in to mysql
+
+
+show tables;
+select * from tbl_dashboard_procurement_data;
+
+RENAME TABLE old_table TO new_table;

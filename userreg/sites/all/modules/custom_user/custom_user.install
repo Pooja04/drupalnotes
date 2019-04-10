@@ -1,0 +1,69 @@
+<?php
+
+/**
+ * Implements hook_schema().
+ */
+ function custom_user_schema()
+    {
+        $schema['custom_user'] = array(
+
+     'description' => 'Make master table',
+     'fields' => array(
+       'id' => array(
+        'description' => 'make id primary key auto increment',
+        'type' => 'serial',
+        'not null' => TRUE,
+       ),
+      'first_name' => array(
+        'description' => 'First name',
+        'type' => 'varchar',
+        'length' => '100',
+        'not null' => TRUE,
+     ),
+    'last_name' => array(
+      'description' => 'Last name',
+      'type' => 'varchar',
+       'length' => '100',
+      'not null' => FALSE,
+    ),
+         'email' => array(
+      'description' => 'Email',
+      'type' => 'varchar',
+      'length' => '100',
+      'not null' => TRUE,
+    ),
+        'nationality' => array(
+      'description' => 'nation',
+      'type' => 'varchar',
+      'length' => '100',
+      'not null' => FALSE,
+    ),
+        'language' => array(
+      'description' => 'lang',
+      'type' => 'varchar',
+      'length' => '100',
+      'not null' => FALSE,
+    ),
+        'status' => array(
+      'description' => 'status',
+      'type' => 'int',
+      'not null' => FALSE,
+    ),
+        'created_date' => array(
+      'description' => 'created',
+      'type' => 'varchar',
+'mysql_type' => 'datetime',
+      'not null' => FALSE,
+    ),
+        'random' => array(
+      'description' => 'randm',
+      'type' => 'varchar',
+      'length' => '100',
+      'not null' => FALSE,
+    ),
+   
+  ),
+  'primary key' => array('id'),
+);
+return $schema;
+}

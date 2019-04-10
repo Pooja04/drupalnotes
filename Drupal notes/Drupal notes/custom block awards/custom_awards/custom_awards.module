@@ -1,0 +1,48 @@
+<?php
+/**
+ * @file
+ * custom module for Leadership Page list on About Us Page
+ */
+
+/**
+ * Implementation of hook_block_info().
+ * 
+ */
+ 
+function custom_awards_block_info() {
+ 
+ $blocks['awards_block_list'] = array(
+    'info' => t('Block Awards'),
+ );  
+   return $blocks;
+}
+
+/**
+ * Implementation of hook_block_view().
+ */
+function custom_awards_block_view($delta='') {
+  $block = array();
+  switch ($delta) {	
+	case 'awards_block_list':
+      $block['subject'] = t('Awards Block List');
+      $block['content'] = awards_block_list_view();
+    break;	
+  }
+  return $block;
+}
+
+function custom_awards_theme($data=array())
+{
+	return array(
+    'custom_leadership_dgsl_awards' => array(
+      'variables' => array('data' => $data), 
+      'template' => 'awards-list',
+    ),	
+  );
+}
+
+
+function awards_block_list_view()
+{
+echo "hello";	
+}

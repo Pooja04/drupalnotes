@@ -1,0 +1,9 @@
+Steps to create new project
+1.git checkout master
+2.git pull github master
+3.git checkout -b 461-safebirth(Switched to a new branch '461-safebirth')
+4.download database from pantheon(live)
+5.anand@anand-VirtualBox:/var/www/html/unfpa-global(461-safebirth)$ mv ~/Downloads/unfpa-global_live_2016-09-22T10-55-29_UTC_database.sql.gz 
+6.gzip -d unfpa-global_live_2016-09-22T10-55-29_UTC_database.sql.gz
+7.drush sql-cli < unfpa-global_live_2016-09-22T10-55-29_UTC_database.sql
+8.anand@anand-VirtualBox:/var/www/html/unfpa-global(461-safebirth)$ ./prepare_db_for_dev.example.sh

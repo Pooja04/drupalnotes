@@ -1,0 +1,46 @@
+<?php
+
+/**
+ * Implements hook_views_api().
+ */
+
+ function custom_user_menu(){
+    
+ 	$items = array();
+
+     $items['user/demo/register'] = array(
+        'title' => 'Registration',
+       'description' => 'Callback for user register.',
+	'page callback' => 'drupal_get_form',
+	//'access callback' => true,
+        'page arguments' => array('user_demo_register'),
+        'access callback' => TRUE,
+        'type' => MENU_CALLBACK,
+        'file' => 'includes/admin.inc',
+        
+    );
+     $items['user/demo/verify/%/%'] = array(
+        'title' => 'Verification',
+       'description' => 'Callback for user register.',
+	'page callback' => 'user_demo_verify',
+       'page arguments' => array(3,4),
+        'access callback' => TRUE,
+        'type' => MENU_CALLBACK,
+        'file' => 'includes/admin.inc',
+        
+    );
+     
+     $items['user/demo/login'] = array(
+        'title' => 'Login',
+       'description' => 'Callback for user register.',
+	'page callback' => 'drupal_get_form',
+	//'access callback' => true,
+        'page arguments' => array('user_demo_login'),
+        'access callback' => TRUE,
+        'type' => MENU_CALLBACK,
+        'file' => 'includes/admin.inc',
+        
+    );
+    
+    return $items;
+}

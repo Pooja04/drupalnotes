@@ -1,0 +1,70 @@
+Highly Scalable
+
+Drupal’s scalability means it can manage the largest, most high-traffic sites in the world. Sites that experience daily high traffic, like Weather.com, and sites that see periodic spikes in traffic, like Grammy.com and the publications of Time, Inc. (like SI.com) all use Drupal to ensure scalability as traffic and content grows. Learn more
+
+
+Mobile-First
+
+Build responsive sites and also create web applications that deliver optimal visitor experiences, no matter what device they’re on. Drupal supports responsive design best practices and ensures your users get a seamless content experience every time, on every device.
+
+
+Integrated Digital Applications
+
+Drupal integrates easily with a wide ecosystem of digital marketing technology and other business applications, so you can use the best set of tools today, and flex with new tools tomorrow. And, Drupal’s API-first focus means connecting content to other sites and applications, making content more powerful.
+
+
+Security
+
+Drupal’s community provide countless eyes and ears to help keep Drupal sites secure. Rely on your team, but also on the open source community to identify vulnerabilities and create/deliver patches automatically to protect your sites and your business. And never lose a night’s sleep. Learn more
+
+Easy Content Authoring
+
+Essential tools for content creation and publishing, like a customizable WYSIWYG editor for content and marketing pros. Authentication and permissions for managing editorial workflows as well as content. Authors, publishers, site admins and developers all use Drupal to meet their requirements, with a workflow that offers them just enough access to features they need. Learn more
+
+
+Flexible Content Architecture
+
+Create the right content architecture using the Admin Interface or do it programatically. Display only the content appropriate for each context with powerful display mode tools and Views. Include a variety of media types (images, video, pdfs, etc.). Customizable menus create a comfortable user experience, creating paths to content across multiple devices.
+
+Custom Functionality: Are you frustrated with web site builders or limitations of Wordpress? Drupal may be the answer. Drupal is highly customizable and even allows the integration of web applications and mashups using third party APIs.
+
+Flexible Implementation: Drupal allows your website to evolve in any direction. For example, you may start with a blog but then want the option of adding other features like a wiki, electronic commerce, forums, multiple content types, etc.
+
+Complex Components: Complex forms, workflows, multilingual sites, and multi-sites can be set up easily with Drupal. There are also over 16,000 Drupal modules available to provide excellent functionality for your website, from commerce to directories and image galleries.
+
+Configurable Website: Drupal can easily be configured to interact with other sites or technologies. If you want, you can even configure it to interact with another Drupal site!
+
+Customize-able Content Types: With Drupal, you have ability to create your own content types. For example, you can create a custom format for directory listings or add a custom field to a page(CCK module prebuild in drupal7 etc). This is one of the most used features of Drupal.
+
+List, Sort, & Search Information:
+You can quickly organize and display lists of information.
+
+
+
+Multisite
+
+Manage many sites across your organization, brands, geographies and campaigns on a single platform that allows quick, easy site creation and deployment.
+
+
+Tools for Business, with No Limitations
+
+Drupal doesn’t dictate to the business; the business dictates what it needs from Drupal. Too many CMS platforms impose their will on your business, forcing you to conform to their way of doing things. Drupal acts the opposite way: use Drupal to create a solution that supports your specific business needs. Drupal creates a foundation for limitless solutions.
+
+
+Strong Stack Foundation
+
+Drupal lives on a modern LAMP technology stack: Linux, Apache, MySQL and PHP, which together are meeting the needs of fast-moving, flexible, agile enterprises and brands building next generation digital platforms.
+
+Strong Stack Foundation
+
+Drupal lives on a modern LAMP technology stack: Linux, Apache, MySQL and PHP, which together are meeting the needs of fast-moving, flexible, agile enterprises and brands building next generation digital platforms.
+
+
+Community of Talent and Experience
+
+The worldwide Drupal community shares its secrets on how to get things done, right. If you have a question, someone has the answer. Leverage the power of open source by building on previously-created solutions. Drupal developers have access to worldwide community experience. When’s the last time your software provider gave you this much support?
+
+
+Multilingual
+
+Architect and configure Drupal to deliver sites to a global, multilingual audience as part of your localization strategy. Drupal makes it easy to create and manage sites for different regions and geographies, and support one to many languages across all of your sites, translating and localizing your content and experiences. Learn more

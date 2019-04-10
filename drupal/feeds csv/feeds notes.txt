@@ -1,0 +1,18 @@
+upload image from external link
+multiple taxonomies
+multiple field collection
+
+
+
+-----------------
+notes 
+
+keep unique title 
+
+import on submission
+
+field collection
+https://www.drupal.org/node/1831004
+
+
+keep as field checkbox uncheck

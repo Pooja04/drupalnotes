@@ -1,0 +1,11 @@
+$('.graph').click(function () {
+      // Set the card title according to active graph.
+      var title_text = $(this).html();
+      $(this).parents('.dashboard-country-outer-box').find('h2').html(title_text);
+      //$(this).parents('.dashboard-country-outer-box').find('.action-link-list .download').css('display', 'block');
+            // To show the graph table when table icon is clicked.
+
+
+
+           
+      

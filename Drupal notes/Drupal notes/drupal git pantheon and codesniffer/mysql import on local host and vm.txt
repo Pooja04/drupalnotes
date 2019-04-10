@@ -1,0 +1,9 @@
+import db on host ----
+D:\xampp\mysql\bin>mysql -u root -p db_expert_search < db_expert_search.sql
+
+
+import db on vm========
+
+mysql -u <user> -p<password> <dbname> < file.sql
+
+Note: There shouldn't space between <-p> and <password>

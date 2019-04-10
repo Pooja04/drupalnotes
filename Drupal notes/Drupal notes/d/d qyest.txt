@@ -1,0 +1,103 @@
+ Explain what is Drupal?
+ It is used as a back-end framework for at least 2.1% of all Web sites worldwide
+The standard release of Drupal, known as Drupal core, contains basic features common to content management systems. These include user account registration and maintenance, menu management, RSS feeds, taxonomy, page layout customization, and system administration.
+
+Drupal is free, open source software that can be used by individuals or groups of users -- even those lacking technical skills -- to easily create and manage many types of Web sites.
+One of the most important components of the Drupal project is its community of supporters (contributors, developers, evangelists, business owners, etc.).
+Drupal is a Content Management System (CMS).  It’s an open source content and free CMS framework written in PHP.  It enables you to organize, manage and publish content with ease and comes with a variety of customization option.
+
+
+ Why Drupal is considered powerful CMS compare to other CMS system?
+https://www.drupal.com/product/web-content-management 
+
+Mention what are the key features of Drupal?
+
+Explain how caching work in Drupal?
+
+  Explain how database system of Drupal works?
+
+Explain what is module in Drupal? List out some of the modules used in Drupal?	
+Explain what is Drupal weight?
+Explain what is Drupal cron?
+xplain what is the use of Ctools in Drupal?
+What are the translations available in Drupal?
+Name and describe the five conceptual layers in a Drupal system.
+What is Drupal’s taxonomy system and what are some of its key features?
+Explain the concept of “nodes” in a Drupal system.
+Describe the features and uses of the Views module.
+How to create a responsive theme in drupal ?
+What is a sub theme in Drupal ?
+What is template.php in drupal ?
+What is entity api module ?
+What is new in drupal 7 ?
+Explain drupal advanced search
+Explain Drupal Architecture
+What are hooks in Drupal ?
+What is DRUSH in Drupal?
+What does Views do and how do you use it?
+
+
+
+
+9. How do you handle upgrades?
+
+
+ 
+Steps to Upgrade drupal minor version.
+
+backing up the site,
+putting it into maintenance mode
+downloading the new version of the module
+uncompressing it
+running update.php
+testing the site
+taking the site out of maintenance mode
+
+
+What are the files required for theme and module?
+ Explain what is render array in Drupal?
+Describe the Field API that was introduced into core in Drupal 7.
+
+
+
+http://drupal-interview-questions.blogspot.in/2014/04/95-drupal-coding-standards.html
+http://drupal-interview-questions.blogspot.in/2014/04/88-drupal-at-glance.html
+http://drupal-interview-questions.blogspot.in/2014/04/87-why-you-shouldnt-modify-core-drupal.html
+http://drupal-interview-questions.blogspot.in/2014/04/86-explain-hardcoding-in-drupal.html
+http://drupal-interview-questions.blogspot.in/2014/04/85-explain-theming-in-drupal-8.html
+http://drupal-interview-questions.blogspot.in/2014/04/83-explain-drupal-administration.html
+http://drupal-interview-questions.blogspot.in/2014/04/67-what-is-render-array-in-drupal.html
+http://drupal-interview-questions.blogspot.in/2014/04/66-what-is-drupal-region.html
+http://drupal-interview-questions.blogspot.in/2014/04/65-what-is-permission-in-drupal.html
+http://drupal-interview-questions.blogspot.in/2014/04/60-what-is-clean-url-in-drupal.html
+http://drupal-interview-questions.blogspot.in/2014/04/58-what-is-drupal-cache.html
+http://drupal-interview-questions.blogspot.in/2014/04/57-what-are-breadcrumbs.html
+http://drupal-interview-questions.blogspot.in/2014/04/55-what-is-base-theme-in-drupal.html
+http://drupal-interview-questions.blogspot.in/2014/04/54-what-is-drupal-panels.html
+
+
+
+
+http://www.tutorialspoint.com/drupal/drupal_interview_questions.htm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    What is a patch?
+What do PDO mean?

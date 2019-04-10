@@ -1,0 +1,6 @@
+<a routerLink ="/books" routerLinkActive = "activelink">Dashboard</a>
+<a [routerLink] ="['/multipleoutlet',{outlets : {firstchild : ['firstoutlet'],secondchild : ['secondoutlet']}}]" routerLinkActive = "activelink">Multiple outlet</a>
+<a routerLink ="/securedcomponent" routerLinkActive = "activelink">Secured Component</a>
+<button (click) = "login()">Login</button>
+
+<router-outlet></router-outlet>

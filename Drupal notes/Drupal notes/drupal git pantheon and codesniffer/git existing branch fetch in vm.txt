@@ -1,0 +1,7 @@
+git checkout master
+git branch
+git fetch pantheon swop-2016
+git checkoput swop-2016
+
+
+git remote -v

@@ -1,0 +1,69 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+       127.0.0.1       droplet.local
+       127.0.0.1       droplettest.local
+       127.0.0.1       mez.local
+       127.0.0.1       mubadala.local
+       127.0.0.1       careersmub.local
+       127.0.0.1       careersmubsvn.local
+       127.0.0.1       mubsvn.local
+       127.0.0.1       mubadalatimeline.local
+       127.0.0.1       mubadalanotes.local
+       127.0.0.1       mubadalaold.local
+       127.0.0.1       lmgold.local
+       127.0.0.1       lmg.local
+       127.0.0.1       driblet.local
+       127.0.0.1       ssl.local
+       127.0.0.1       demo.local
+       127.0.0.1       dwc.local
+       127.0.0.1       project.local
+       127.0.0.1       taybah.local
+       127.0.0.1       dwtc.local
+       127.0.0.1       localhost
+       127.0.0.1       drupal8.local
+       127.0.0.1       drop8.local
+       127.0.0.1       ldu538.local
+       127.0.0.1       ldu538old.local
+       127.0.0.1       ldu545.local
+       127.0.0.1       wpdemo.local
+       127.0.0.1      yasisland.local
+       127.0.0.1      mam006.local
+       #10.160.179.5   mubadala.com www.mubadala.com
+       10.160.179.7   www.mubadalacompliance.ae
+       10.160.179.4   MASLVWINMUBAD01
+       10.160.179.3   MASLVLINMUBAD02
+       10.160.179.9   www.almariyahisland.ae
+       10.132.171.243  ldu539.local
+	127.0.0.1	fli531_admin.local
+	127.0.0.1	mubcompliance.local
+	127.0.0.1	ymc.local
+	127.0.0.1	ymcnew.local
+	127.0.0.1	test.local
+	127.0.0.1	dpg004a.local
+	127.0.0.1	mubannual2017.local
+	127.0.0.1	agtb.local
+	127.0.0.1	drupmigrate.local
+	127.0.0.1	userregistration.local
+	127.0.0.1	userreg.local
+	127.0.0.1	aggregator.local
+	127.0.0.1	products.local
+	127.0.0.1	ldu1053.local

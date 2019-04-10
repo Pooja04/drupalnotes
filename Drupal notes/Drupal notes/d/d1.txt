@@ -1,0 +1,13 @@
+Drupal is free, open source software that can be used by individuals or groups of users -- even those lacking technical skills -- to easily create and manage many types of Web sites. framework written in PHP
+
+ It enables you to organize, manage and publish content with ease and comes with a variety of customization option.
+
+ It is used as a back-end framework for at least 2.1% of all Web sites worldwide
+
+To clarify the difference between Drupal and other CMSs, consider the example of a news site. You want to be able to post news articles on the site, and you want the homepage to have a section featuring the five most recent ones. Next, you decide that you want to add a blog section, and put a list of links to the five most recent blog entries on the homepage as well.
+
+One of the most important components of the Drupal project is its community of supporters (contributors, developers, evangelists, business owners, etc.).
+
+The average content management system (CMS) is like a toy truck—specific assumptions have been made about how it will be used, and these assumptions are difficult to override. Content management frameworks, on the other hand, are like the raw materials needed to make any toy—no assumptions have been made about how they’ll be used, and the builder needs expert technical knowledge in order to make anything at all.
+
+ Unlike other CMSs, Drupal isn’t a prefabricated toy truck, but rather a collection of wheels, windshields, axles, frames, etc., that a toy maker can easily connect together. With Drupal, a maker could create a toy truck, but she or he could just as easily create a toy airplane, submarine, or robot.

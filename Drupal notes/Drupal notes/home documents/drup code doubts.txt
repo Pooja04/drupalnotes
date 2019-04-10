@@ -1,0 +1,104 @@
+array 
+fetchobject
+db_query n select better
+LIKE case
+->fields('t', array('tid', 'name'))  why array?
+keyup keydown
+selector
+function custom_header_search_form($form, &$form_state)  why 3 param
+stylesheets[all]
+document .ready n windiw . load
+function $ when to use y to use
+value input
+==============
+echo drupal_json_encode();
+node - nid title
+taxonomy_term_name tid name vid
+taxonomy_vocabulary  vid name
+->condition('title','%'.$string.'%','LIKE')
+
+function search_block_data() {
+  return "<input type='text' id='searchbox'  placeholder='search by expert or area of expertise' autocomplete='off'/><div id='matches' class='scrollbox'></div>";
+}
+
+
+
+(function($){   /***/    })(jQuery);
+$(document).ready(function () { /***/ });
+$this.keyup(function(){ /***/ });
+
+
+
+
+===============
+$block['content'] = drupal_get_form('custom_header_search_form');
+
+function custom_header_search_form($form, &$form_state) {
+  // Build your form
+  $options[0] = 'Site';
+  $options[1] = 'Library';
+  $options[2] = 'Database';
+  $form['opt'] = array(
+    '#type' => 'select',
+    '#options' => $options,
+    '#prefix' => '<div class="poll-form select-dropdown">',
+    '#suffix' => '</div>',
+  );
+
+function custom_header_search_form_submit($form, &$form_state) {
+
+  $search = $form['opt']['#options'][$form_state['values']['opt']];
+  $search_value = $form_state['values']['searchbox'];
+
+
+$form_state['redirect'] = url($alias);
+
+================
+  $form['#submit'][] = 'expertsearch_general_settings_form_submit';
+
+ return system_settings_form($form);
+===========
+custom map
+ $query = db_select('field_data_field_maplocation', 'f');
+  $query->join('node', 'n', 'n.nid = f.entity_id');
+  $query->fields('f', array('field_maplocation_value'));
+  $query->condition('status', 1, '=');
+  $result = $query->execute();
+
+array_unique
+
+function custom_map_preprocess_page(&$variables) {
+
+function custom_map_views_pre_render(&$view) {
+
+location_array = <?php echo json_encode($locations); ?>;</script>
+
+later
+---
+function custom_map_views_pre_render(&$view) {
+
+  if ($view->name == "map_location_experts") {
+
+    $key = $view->args[0];
+    $field = field_info_field('field_maplocation');
+    $output = isset($field['settings']['allowed_values'][$key]) ? $field['settings']['allowed_values'][$key] : '';
+    $view->set_title($output);
+  }
+}------------
+====================================================
+flood table
+
+=======================
+
+Flexslilder
+varnish
+multisite
+multilingual
+multidomain
+feed
+features
+deploy
+
+----
+ravi will explain
+metadata

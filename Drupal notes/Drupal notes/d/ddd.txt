@@ -1,0 +1,18 @@
+
+
+Drupal is designed to be the perfect content management solution for nontechnical users who need both simplicity and flexibility.
+
+The average content management system (CMS) is like a toy truck—specific assumptions have been made about how it will be used, and these assumptions are difficult to override. Content management frameworks, on the other hand, are like the raw materials needed to make any toy—no assumptions have been made about how they’ll be used, and the builder needs expert technical knowledge in order to make anything at all.
+
+ Unlike other CMSs, Drupal isn’t a prefabricated toy truck, but rather a collection of wheels, windshields, axles, frames, etc., that a toy maker can easily connect together. With Drupal, a maker could create a toy truck, but she or he could just as easily create a toy airplane, submarine, or robot.
+
+
+a node is a set of related bits of information. 
+you create a new blog post you are not only defining its body text, but also its title, content, author link, creation date, taxonomy (tags), etc.
+
+Drupal is designed from the ground up so site builders can delegate content creation, and even site administration, to users. All a site builder has to do is define user permissions for which users gets to do what, and then everyone can start collaborating.
+
+ Modules are functional plugins that are either part of the Drupal core (they ship with Drupal) or they are contributed items that have been created by members of the Drupal community. 
+
+--------------
+Flexible and highly scalable, Drupal publishes a single web site or shares content in multiple languages across many devices. 

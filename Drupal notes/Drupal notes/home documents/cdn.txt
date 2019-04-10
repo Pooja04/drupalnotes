@@ -1,0 +1,7 @@
+CDN
+
+This module provides easy Content Delivery Network integration for Drupal sites. It changes file URLs, so that files (CSS, JS, images, fonts, videos …) are downloaded from a CDN instead of your web server.
+
+assets can be cached in a proxy which is geographically closer to the end user, which usually leads to lower latency and increased download speed;
+
+Each page response is shared between your origin server and the CDN, meaning that your origin server can serve more concurrent requests;

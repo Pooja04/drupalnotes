@@ -1,0 +1,30 @@
+legend actual cut off
+
+
+excel spl char
+
+ay landing table undefined value
+
+
+
+ask
+legend cut off actual 
+random table sort
+================
+AY table csv removed % and multip,lle decimal
+AY indicator legend and map country color change
+AY indicators removed
+AY table sort made random at first
+
+=====
+fgm sort table BF
+
+fgm remove indi
+
+Please add a new tab named "More about FGM" (name TBD) and classify the following indicators under this tab: 1) Percentage of women who have undergone FGM before age 5; 2) Percentage of women believe FGM should be discontinued; 3)Type of FGM - Nicked, no flesh removed; 4) Type of FGM - Partly flesh removed; 5) Type of FGM - Sewn closed; 6) Performer of FGM - Doctor; 7) Performer of FGM - Nurse/Midwife/Other health worker; 8) Performer of FGM - Nurse/Midwife/Other health worker - Traditional excisors
+
+
+=====
+found issues
+
+undefined in every table

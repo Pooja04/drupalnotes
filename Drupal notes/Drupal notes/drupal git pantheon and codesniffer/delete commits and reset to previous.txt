@@ -1,0 +1,100 @@
+
+go to patheon and take the commit code from commits
+
+
+pooja.shet@PoojaS MINGW64 /d/project/htdocs/unfpa-global (data)
+$ git reset afb55b197000bdf1b9cb509b1af2b019d73a67ff
+Unstaged changes after reset:
+M       sites/all/modules/custom_data_portal/custom_data_portal.module
+D       sites/all/modules/custom_data_portal/js/data-dashboard-map.js
+M       sites/all/modules/unfpa_global_opendata/templates/dashboard_map.tpl.php
+M       sites/all/modules/unfpa_global_opendata/unfpa_global_opendata.theme.inc
+
+pooja.shet@PoojaS MINGW64 /d/project/htdocs/unfpa-global (data)
+$ git status
+On branch data
+Your branch is behind 'pantheon/data' by 2 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   sites/all/modules/custom_data_portal/custom_data_portal.module
+        deleted:    sites/all/modules/custom_data_portal/js/data-dashboard-map.js
+        modified:   sites/all/modules/unfpa_global_opendata/templates/dashboard_map.tpl.php
+        modified:   sites/all/modules/unfpa_global_opendata/unfpa_global_opendata.theme.inc
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        sites/all/modules/custom_data_portal/images/data-portal-icons.png
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+pooja.shet@PoojaS MINGW64 /d/project/htdocs/unfpa-global (data)                e
+$ git checkout -- sites/all/modules/custom_data_portal/custom_data_portal.module
+^Cgit checkout -- sites/all/modules/custom_data_portal/custom_data_portal.module
+
+pooja.shet@PoojaS MINGW64 /d/project/htdocs/unfpa-global (data)
+$ ^C
+
+
+pooja.shet@PoojaS MINGW64 /d/project/htdocs/unfpa-global (data)
+git reset --hard afb55b197000bdf1b9cb509b1af2b019d73a67ff
+fatal: ambiguous argument 'sites/all/modules/custom_data_portal/custom_data_portal.modulgit': unkn                                                                                              own revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+
+po^C
+
+pooja.shet@PoojaS MINGW64 /d/project/htdocs/unfpa-global (data)
+$ ^C
+
+pooja.shet@PoojaS MINGW64 /d/project/htdocs/unfpa-global (data)
+$ ^C
+
+pooja.shet@PoojaS MINGW64 /d/project/htdocs/unfpa-global (data)
+$ clear
+
+pooja.shet@PoojaS MINGW64 /d/project/htdocs/unfpa-global (data)
+$ git reset --hard afb55b197000bdf1b9cb509b1af2b019d73a67ff
+HEAD is now at afb55b1 Remove dashboard map and world map js from funds transparency
+
+pooja.shet@PoojaS MINGW64 /d/project/htdocs/unfpa-global (data)
+$ git status
+On branch data
+Your branch is behind 'pantheon/data' by 2 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        sites/all/modules/custom_data_portal/images/data-portal-icons.png
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+pooja.shet@PoojaS MINGW64 /d/project/htdocs/unfpa-global (data)
+$ git push -f pantheon data
+codeserver.dev.3207353e-08ec-4@codeserver.dev.3207353e-08ec-4820-a547-8efa816e998e.drush.in's password:
+Total 0 (delta 0), reused 0 (delta 0)
+To ssh://codeserver.dev.3207353e-08ec-4820-a547-8efa816e998e@codeserver.dev.3207353e-08ec-4820-a547-8efa816e998e.drush.in:2222/~/repository.git
+ + a94ec2e...afb55b1 data -> data (forced update)
+
+pooja.shet@PoojaS MINGW64 /d/project/htdocs/unfpa-global (data)
+$ git status
+On branch data
+Your branch is up-to-date with 'pantheon/data'.
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        sites/all/modules/custom_data_portal/images/data-portal-icons.png
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+pooja.shet@PoojaS MINGW64 /d/project/htdocs/unfpa-global (data)
+$
+
+
+
+
+
+
